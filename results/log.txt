@@ -1,0 +1,597 @@
+[{3667621017.py:45} INFO - Epoch    1, trlast = 0.3412, val = 0.4798
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch    2, trlast = 0.3417, val = 0.4776
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch    3, trlast = 0.3338, val = 0.4745
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch    4, trlast = 0.3351, val = 0.4745
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch    5, trlast = 0.3327, val = 0.4716
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch    6, trlast = 0.3314, val = 0.4709
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch    7, trlast = 0.3297, val = 0.4698
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch    8, trlast = 0.3277, val = 0.4686
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch    9, trlast = 0.3260, val = 0.4679
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   10, trlast = 0.3247, val = 0.4661
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   11, trlast = 0.3238, val = 0.4648
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   12, trlast = 0.3230, val = 0.4633
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   13, trlast = 0.3224, val = 0.4621
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   14, trlast = 0.3217, val = 0.4609
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   15, trlast = 0.3211, val = 0.4599
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   16, trlast = 0.3204, val = 0.4589
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   17, trlast = 0.3197, val = 0.4581
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   18, trlast = 0.3191, val = 0.4573
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   19, trlast = 0.3184, val = 0.4567
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   20, trlast = 0.3177, val = 0.4560
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   21, trlast = 0.3170, val = 0.4554
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   22, trlast = 0.3164, val = 0.4549
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   23, trlast = 0.3159, val = 0.4545
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   24, trlast = 0.3155, val = 0.4541
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   25, trlast = 0.3151, val = 0.4539
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   26, trlast = 0.3148, val = 0.4536
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   27, trlast = 0.3146, val = 0.4534
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   28, trlast = 0.3143, val = 0.4531
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   29, trlast = 0.3141, val = 0.4530
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   30, trlast = 0.3139, val = 0.4528
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   31, trlast = 0.3136, val = 0.4526
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   32, trlast = 0.3134, val = 0.4525
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   33, trlast = 0.3132, val = 0.4524
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   34, trlast = 0.3130, val = 0.4523
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   35, trlast = 0.3128, val = 0.4522
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   36, trlast = 0.3126, val = 0.4521
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   37, trlast = 0.3124, val = 0.4520
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   38, trlast = 0.3122, val = 0.4519
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   39, trlast = 0.3120, val = 0.4519
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   40, trlast = 0.3118, val = 0.4518
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   41, trlast = 0.3116, val = 0.4517
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   42, trlast = 0.3114, val = 0.4517
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   43, trlast = 0.3112, val = 0.4516
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   44, trlast = 0.3110, val = 0.4516
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   45, trlast = 0.3108, val = 0.4516
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   46, trlast = 0.3107, val = 0.4515
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   47, trlast = 0.3105, val = 0.4515
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   48, trlast = 0.3103, val = 0.4515
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   49, trlast = 0.3101, val = 0.4515
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   50, trlast = 0.3099, val = 0.4515
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   51, trlast = 0.3097, val = 0.4515
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   52, trlast = 0.3095, val = 0.4515
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   53, trlast = 0.3092, val = 0.4515
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   54, trlast = 0.3090, val = 0.4515
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   55, trlast = 0.3088, val = 0.4515
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   56, trlast = 0.3086, val = 0.4515
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   57, trlast = 0.3083, val = 0.4515
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   58, trlast = 0.3081, val = 0.4515
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   59, trlast = 0.3078, val = 0.4516
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   60, trlast = 0.3076, val = 0.4516
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   61, trlast = 0.3073, val = 0.4516
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   62, trlast = 0.3070, val = 0.4517
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   63, trlast = 0.3067, val = 0.4517
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   64, trlast = 0.3064, val = 0.4518
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   65, trlast = 0.3061, val = 0.4518
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   66, trlast = 0.3058, val = 0.4519
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   67, trlast = 0.3054, val = 0.4519
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   68, trlast = 0.3051, val = 0.4520
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   69, trlast = 0.3048, val = 0.4521
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   70, trlast = 0.3044, val = 0.4521
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   71, trlast = 0.3041, val = 0.4522
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   72, trlast = 0.3037, val = 0.4523
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   73, trlast = 0.3033, val = 0.4524
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   74, trlast = 0.3030, val = 0.4525
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   75, trlast = 0.3026, val = 0.4526
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   76, trlast = 0.3023, val = 0.4527
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   77, trlast = 0.3019, val = 0.4528
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   78, trlast = 0.3016, val = 0.4530
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   79, trlast = 0.3014, val = 0.4532
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   80, trlast = 0.3013, val = 0.4535
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   81, trlast = 0.3014, val = 0.4541
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   82, trlast = 0.3018, val = 0.4556
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   83, trlast = 0.3015, val = 0.4597
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   84, trlast = 0.2989, val = 0.4660
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   85, trlast = 0.3013, val = 0.4576
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   86, trlast = 0.3013, val = 0.4534
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   87, trlast = 0.2973, val = 0.4535
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   88, trlast = 0.2963, val = 0.4548
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   89, trlast = 0.2960, val = 0.4557
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   90, trlast = 0.2958, val = 0.4552
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   91, trlast = 0.2952, val = 0.4547
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   92, trlast = 0.2941, val = 0.4547
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   93, trlast = 0.2932, val = 0.4550
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   94, trlast = 0.2923, val = 0.4555
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   95, trlast = 0.2916, val = 0.4558
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   96, trlast = 0.2908, val = 0.4560
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   97, trlast = 0.2901, val = 0.4561
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   98, trlast = 0.2892, val = 0.4562
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:41} INFO - Breaking due to early stopping at epoch 98
+[{4123838167.py:1} INFO - Training finished.............
+[{4123838167.py:5} INFO - The entire model is saved in results\best_full_model.pt.
+[{1792540669.py:4} INFO - Mark embedding features = (1, 64)
+[{1792540669.py:6} INFO - Saved mark embedding features (z).
+[{387561057.py:4} INFO - Mark embedding features = (1, 64)
+[{387561057.py:6} INFO - Saved mark embedding features (z).
+[{1604167150.py:5} INFO - Mark embedding features = (1, 64)
+[{1604167150.py:7} INFO - Saved mark embedding features (z).
+[{1604167150.py:24} INFO - sent to output directory: (none: I.npy)
+[{1604167150.py:25} INFO - Either model type is RNN or user/marks is large, skipping I.npy
+[{1225016807.py:7} INFO - Train: 0.4493
+[{1225016807.py:8} INFO - TimeNLL:0.4493 MarksNLL:0.0000 Acc:1.0000
+[{1225016807.py:7} INFO - Val: 0.4515
+[{1225016807.py:8} INFO - TimeNLL:0.4515 MarksNLL:0.0000 Acc:1.0000
+[{1225016807.py:7} INFO - Test: 0.5003
+[{1225016807.py:8} INFO - TimeNLL:0.5003 MarksNLL:0.0000 Acc:1.0000
+[{3667621017.py:45} INFO - Epoch    1, trlast = 0.4297, val = 0.5411
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch    2, trlast = 0.3541, val = 0.5097
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch    3, trlast = 0.3524, val = 0.5021
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch    4, trlast = 0.3476, val = 0.4910
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch    5, trlast = 0.3461, val = 0.4779
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch    6, trlast = 0.3378, val = 0.4776
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch    7, trlast = 0.3357, val = 0.4775
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch    8, trlast = 0.3354, val = 0.4840
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch    9, trlast = 0.3328, val = 0.4791
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   10, trlast = 0.3313, val = 0.4704
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   11, trlast = 0.3263, val = 0.4709
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   12, trlast = 0.3260, val = 0.4746
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   13, trlast = 0.3254, val = 0.4753
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   14, trlast = 0.3265, val = 0.4693
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   15, trlast = 0.3243, val = 0.4672
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   16, trlast = 0.3227, val = 0.4682
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   17, trlast = 0.3222, val = 0.4696
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   18, trlast = 0.3220, val = 0.4695
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   19, trlast = 0.3222, val = 0.4667
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   20, trlast = 0.3215, val = 0.4649
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   21, trlast = 0.3206, val = 0.4650
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   22, trlast = 0.3201, val = 0.4658
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   23, trlast = 0.3197, val = 0.4663
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   24, trlast = 0.3195, val = 0.4658
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   25, trlast = 0.3193, val = 0.4647
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   26, trlast = 0.3189, val = 0.4637
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   27, trlast = 0.3184, val = 0.4636
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   28, trlast = 0.3180, val = 0.4639
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   29, trlast = 0.3177, val = 0.4641
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   30, trlast = 0.3176, val = 0.4638
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   31, trlast = 0.3174, val = 0.4630
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   32, trlast = 0.3171, val = 0.4622
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   33, trlast = 0.3167, val = 0.4619
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   34, trlast = 0.3162, val = 0.4620
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   35, trlast = 0.3160, val = 0.4622
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   36, trlast = 0.3159, val = 0.4620
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   37, trlast = 0.3157, val = 0.4614
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   38, trlast = 0.3154, val = 0.4607
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   39, trlast = 0.3150, val = 0.4603
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   40, trlast = 0.3146, val = 0.4602
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   41, trlast = 0.3143, val = 0.4602
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   42, trlast = 0.3140, val = 0.4601
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   43, trlast = 0.3138, val = 0.4598
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   44, trlast = 0.3135, val = 0.4594
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   45, trlast = 0.3132, val = 0.4590
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   46, trlast = 0.3128, val = 0.4588
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   47, trlast = 0.3124, val = 0.4588
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   48, trlast = 0.3122, val = 0.4587
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   49, trlast = 0.3119, val = 0.4586
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   50, trlast = 0.3116, val = 0.4584
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   51, trlast = 0.3113, val = 0.4582
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   52, trlast = 0.3110, val = 0.4581
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   53, trlast = 0.3106, val = 0.4580
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   54, trlast = 0.3103, val = 0.4579
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   55, trlast = 0.3100, val = 0.4578
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   56, trlast = 0.3097, val = 0.4577
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   57, trlast = 0.3094, val = 0.4576
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   58, trlast = 0.3091, val = 0.4575
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   59, trlast = 0.3088, val = 0.4575
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   60, trlast = 0.3085, val = 0.4574
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   61, trlast = 0.3082, val = 0.4573
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   62, trlast = 0.3078, val = 0.4573
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   63, trlast = 0.3075, val = 0.4572
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   64, trlast = 0.3072, val = 0.4572
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   65, trlast = 0.3068, val = 0.4572
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   66, trlast = 0.3064, val = 0.4571
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   67, trlast = 0.3060, val = 0.4571
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   68, trlast = 0.3056, val = 0.4571
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   69, trlast = 0.3052, val = 0.4571
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   70, trlast = 0.3048, val = 0.4571
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   71, trlast = 0.3043, val = 0.4571
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   72, trlast = 0.3038, val = 0.4571
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   73, trlast = 0.3033, val = 0.4571
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   74, trlast = 0.3028, val = 0.4572
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   75, trlast = 0.3022, val = 0.4572
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   76, trlast = 0.3016, val = 0.4573
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   77, trlast = 0.3010, val = 0.4573
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   78, trlast = 0.3004, val = 0.4574
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   79, trlast = 0.2997, val = 0.4575
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   80, trlast = 0.2990, val = 0.4576
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   81, trlast = 0.2983, val = 0.4577
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   82, trlast = 0.2976, val = 0.4578
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   83, trlast = 0.2968, val = 0.4579
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   84, trlast = 0.2960, val = 0.4580
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   85, trlast = 0.2952, val = 0.4581
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   86, trlast = 0.2943, val = 0.4583
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   87, trlast = 0.2934, val = 0.4584
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   88, trlast = 0.2925, val = 0.4586
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   89, trlast = 0.2915, val = 0.4587
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   90, trlast = 0.2905, val = 0.4589
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   91, trlast = 0.2895, val = 0.4591
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   92, trlast = 0.2884, val = 0.4593
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   93, trlast = 0.2873, val = 0.4596
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   94, trlast = 0.2861, val = 0.4598
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   95, trlast = 0.2849, val = 0.4602
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   96, trlast = 0.2836, val = 0.4605
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   97, trlast = 0.2823, val = 0.4609
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   98, trlast = 0.2809, val = 0.4614
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   99, trlast = 0.2795, val = 0.4619
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch  100, trlast = 0.2779, val = 0.4624
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch  101, trlast = 0.2763, val = 0.4630
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch  102, trlast = 0.2746, val = 0.4636
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch  103, trlast = 0.2728, val = 0.4643
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch  104, trlast = 0.2708, val = 0.4651
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch  105, trlast = 0.2688, val = 0.4660
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch  106, trlast = 0.2666, val = 0.4670
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch  107, trlast = 0.2643, val = 0.4680
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch  108, trlast = 0.2619, val = 0.4690
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch  109, trlast = 0.2595, val = 0.4700
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch  110, trlast = 0.2569, val = 0.4711
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch  111, trlast = 0.2544, val = 0.4723
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch  112, trlast = 0.2517, val = 0.4737
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch  113, trlast = 0.2491, val = 0.4754
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch  114, trlast = 0.2467, val = 0.4775
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch  115, trlast = 0.2458, val = 0.4807
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch  116, trlast = 0.2533, val = 0.4798
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch  117, trlast = 0.2704, val = 0.4733
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:41} INFO - Breaking due to early stopping at epoch 117
+[{4123838167.py:1} INFO - Training finished.............
+[{4123838167.py:5} INFO - The entire model is saved in results\best_full_model.pt.
+[{1225016807.py:7} INFO - Train: 0.4500
+[{1225016807.py:8} INFO - TimeNLL:0.4500 MarksNLL:0.0000 Acc:1.0000
+[{1225016807.py:7} INFO - Val: 0.4571
+[{1225016807.py:8} INFO - TimeNLL:0.4571 MarksNLL:0.0000 Acc:1.0000
+[{1225016807.py:7} INFO - Test: 0.5053
+[{1225016807.py:8} INFO - TimeNLL:0.5053 MarksNLL:0.0000 Acc:1.0000
+[{3667621017.py:45} INFO - Epoch    1, trlast = 16.4327, val = 16.2140
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch    2, trlast = 16.3486, val = 16.1067
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch    3, trlast = 16.3289, val = 16.1386
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch    4, trlast = 16.3059, val = 16.1321
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch    5, trlast = 16.3188, val = 16.1143
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch    6, trlast = 16.3070, val = 16.1164
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch    7, trlast = 16.2977, val = 16.1226
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch    8, trlast = 16.2923, val = 16.1152
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch    9, trlast = 16.3353, val = 16.1380
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   10, trlast = 16.2585, val = 16.1978
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   11, trlast = 16.2826, val = 16.1337
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   12, trlast = 16.2245, val = 16.1048
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   13, trlast = 16.2156, val = 16.1042
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   14, trlast = 16.2426, val = 16.0976
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   15, trlast = 16.2166, val = 16.1104
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   16, trlast = 16.1819, val = 16.1236
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   17, trlast = 16.1914, val = 16.1148
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   18, trlast = 16.1791, val = 16.0875
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   19, trlast = 16.1601, val = 16.0969
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   20, trlast = 16.1493, val = 16.0842
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   21, trlast = 16.1476, val = 16.0984
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   22, trlast = 16.1615, val = 16.1101
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   23, trlast = 16.1407, val = 16.1595
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   24, trlast = 16.1127, val = 16.1388
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   25, trlast = 16.1039, val = 16.0967
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   26, trlast = 16.0881, val = 16.1083
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   27, trlast = 16.0678, val = 16.1206
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   28, trlast = 16.0643, val = 16.1413
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   29, trlast = 16.0959, val = 16.1584
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   30, trlast = 16.0781, val = 16.1501
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   31, trlast = 16.0538, val = 16.1413
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   32, trlast = 16.0409, val = 16.1381
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   33, trlast = 16.0565, val = 16.1351
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   34, trlast = 16.0598, val = 16.1119
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   35, trlast = 16.0424, val = 16.1158
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   36, trlast = 16.0257, val = 16.1693
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   37, trlast = 16.0033, val = 16.2029
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   38, trlast = 15.9845, val = 16.1850
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   39, trlast = 15.9938, val = 16.1781
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   40, trlast = 15.9937, val = 16.1414
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   41, trlast = 15.9888, val = 16.1346
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   42, trlast = 15.9665, val = 16.1405
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   43, trlast = 15.9409, val = 16.1470
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   44, trlast = 15.9314, val = 16.1499
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   45, trlast = 15.9332, val = 16.1668
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   46, trlast = 15.9267, val = 16.1651
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   47, trlast = 15.9162, val = 16.1332
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   48, trlast = 15.9317, val = 16.1432
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   49, trlast = 15.9501, val = 16.1483
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   50, trlast = 15.8890, val = 16.1782
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   51, trlast = 15.8837, val = 16.1790
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   52, trlast = 15.8547, val = 16.1720
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   53, trlast = 15.8473, val = 16.1830
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   54, trlast = 15.8208, val = 16.2017
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   55, trlast = 15.8140, val = 16.1933
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   56, trlast = 15.7982, val = 16.1756
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   57, trlast = 15.7674, val = 16.1925
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   58, trlast = 15.7461, val = 16.1615
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   59, trlast = 15.7374, val = 16.1658
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   60, trlast = 15.7236, val = 16.1681
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   61, trlast = 15.7084, val = 16.1684
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   62, trlast = 15.6918, val = 16.1435
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   63, trlast = 15.6717, val = 16.1409
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   64, trlast = 15.6359, val = 16.1681
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   65, trlast = 15.7112, val = 16.2145
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   66, trlast = 15.7358, val = 16.2511
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   67, trlast = 15.7101, val = 16.2460
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   68, trlast = 15.6197, val = 16.2241
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:45} INFO - Epoch   69, trlast = 15.5915, val = 16.1597
+[{3667621017.py:54} INFO - saved intermediate checkpoint
+[{3667621017.py:41} INFO - Breaking due to early stopping at epoch 69
+[{4123838167.py:1} INFO - Training finished.............
+[{4123838167.py:5} INFO - The entire model is saved in results_stckoverflow\best_full_model.pt.
