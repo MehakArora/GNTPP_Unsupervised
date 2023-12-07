@@ -1,0 +1,110 @@
+2023-11-27 09:01:12,792 - trainers.trainer - INFO - Log directory: logs_results_attn_cnf_sepsis\Trial
+2023-11-27 09:01:14,382 - trainers.trainer - INFO - the number of trainable parameters: 17761
+2023-11-27 09:01:14,383 - trainers.trainer - INFO - Start training the model ...
+2023-11-27 09:28:06,015 - trainers.trainer - INFO - ---Epoch.0 Train Negative Overall Log-Loss per event: 0.051563. 
+2023-11-27 09:28:06,017 - trainers.trainer - INFO - ---Epoch.0 Val Negative Log-Loss per event: -0.006358; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 09:28:06,023 - trainers.trainer - INFO - Saved model at 0
+2023-11-27 09:28:06,025 - trainers.trainer - INFO - Negative Log-Loss decrease from inf to -0.00636, saving to logs_results_attn_cnf_sepsis\Trial\saved_model\epo0.tar
+2023-11-27 09:57:39,869 - trainers.trainer - INFO - ---Epoch.1 Train Negative Overall Log-Loss per event: -0.004339. 
+2023-11-27 09:57:39,870 - trainers.trainer - INFO - ---Epoch.1 Val Negative Log-Loss per event: -0.027227; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 09:57:39,876 - trainers.trainer - INFO - Saved model at 1
+2023-11-27 09:57:39,877 - trainers.trainer - INFO - Negative Log-Loss decrease from -0.00636 to -0.02723, saving to logs_results_attn_cnf_sepsis\Trial\saved_model\epo1.tar
+2023-11-27 10:26:34,368 - trainers.trainer - INFO - ---Epoch.2 Train Negative Overall Log-Loss per event: -0.017603. 
+2023-11-27 10:26:34,370 - trainers.trainer - INFO - ---Epoch.2 Val Negative Log-Loss per event: -0.032608; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 10:26:34,379 - trainers.trainer - INFO - Saved model at 2
+2023-11-27 10:26:34,380 - trainers.trainer - INFO - Negative Log-Loss decrease from -0.02723 to -0.03261, saving to logs_results_attn_cnf_sepsis\Trial\saved_model\epo2.tar
+2023-11-27 10:55:58,808 - trainers.trainer - INFO - ---Epoch.3 Train Negative Overall Log-Loss per event: -0.023819. 
+2023-11-27 10:55:58,810 - trainers.trainer - INFO - ---Epoch.3 Val Negative Log-Loss per event: -0.035576; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 10:55:58,815 - trainers.trainer - INFO - Saved model at 3
+2023-11-27 10:55:58,816 - trainers.trainer - INFO - Negative Log-Loss decrease from -0.03261 to -0.03558, saving to logs_results_attn_cnf_sepsis\Trial\saved_model\epo3.tar
+2023-11-27 11:26:30,581 - trainers.trainer - INFO - ---Epoch.4 Train Negative Overall Log-Loss per event: -0.027312. 
+2023-11-27 11:26:30,582 - trainers.trainer - INFO - ---Epoch.4 Val Negative Log-Loss per event: -0.037522; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 11:26:30,588 - trainers.trainer - INFO - Saved model at 4
+2023-11-27 11:26:30,588 - trainers.trainer - INFO - Negative Log-Loss decrease from -0.03558 to -0.03752, saving to logs_results_attn_cnf_sepsis\Trial\saved_model\epo4.tar
+2023-11-27 11:57:18,739 - trainers.trainer - INFO - ---Epoch.5 Train Negative Overall Log-Loss per event: -0.029416. 
+2023-11-27 11:57:18,741 - trainers.trainer - INFO - ---Epoch.5 Val Negative Log-Loss per event: -0.039172; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 11:57:18,749 - trainers.trainer - INFO - Saved model at 5
+2023-11-27 11:57:18,750 - trainers.trainer - INFO - Negative Log-Loss decrease from -0.03752 to -0.03917, saving to logs_results_attn_cnf_sepsis\Trial\saved_model\epo5.tar
+2023-11-27 12:28:34,445 - trainers.trainer - INFO - ---Epoch.6 Train Negative Overall Log-Loss per event: -0.030839. 
+2023-11-27 12:28:34,446 - trainers.trainer - INFO - ---Epoch.6 Val Negative Log-Loss per event: -0.039416; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 12:28:34,455 - trainers.trainer - INFO - Saved model at 6
+2023-11-27 12:28:34,456 - trainers.trainer - INFO - Negative Log-Loss decrease from -0.03917 to -0.03942, saving to logs_results_attn_cnf_sepsis\Trial\saved_model\epo6.tar
+2023-11-27 13:00:30,172 - trainers.trainer - INFO - ---Epoch.7 Train Negative Overall Log-Loss per event: -0.032423. 
+2023-11-27 13:00:30,174 - trainers.trainer - INFO - ---Epoch.7 Val Negative Log-Loss per event: -0.041417; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 13:00:30,180 - trainers.trainer - INFO - Saved model at 7
+2023-11-27 13:00:30,181 - trainers.trainer - INFO - Negative Log-Loss decrease from -0.03942 to -0.04142, saving to logs_results_attn_cnf_sepsis\Trial\saved_model\epo7.tar
+2023-11-27 13:31:45,178 - trainers.trainer - INFO - ---Epoch.8 Train Negative Overall Log-Loss per event: -0.033138. 
+2023-11-27 13:31:45,180 - trainers.trainer - INFO - ---Epoch.8 Val Negative Log-Loss per event: -0.041004; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 14:02:55,642 - trainers.trainer - INFO - ---Epoch.9 Train Negative Overall Log-Loss per event: -0.034348. 
+2023-11-27 14:02:55,644 - trainers.trainer - INFO - ---Epoch.9 Val Negative Log-Loss per event: -0.041714; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 14:16:13,930 - trainers.trainer - INFO - ---Epoch.9 Test Negative Log-Loss per event: -0.045335; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_Dev: 0.000000
+2023-11-27 14:16:13,939 - trainers.trainer - INFO - Saved model at 9
+2023-11-27 14:16:13,941 - trainers.trainer - INFO - Negative Log-Loss decrease from -0.04142 to -0.04171, saving to logs_results_attn_cnf_sepsis\Trial\saved_model\epo9.tar
+2023-11-27 14:49:04,208 - trainers.trainer - INFO - ---Epoch.10 Train Negative Overall Log-Loss per event: -0.034635. 
+2023-11-27 14:49:04,211 - trainers.trainer - INFO - ---Epoch.10 Val Negative Log-Loss per event: -0.042520; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 14:49:04,226 - trainers.trainer - INFO - Saved model at 10
+2023-11-27 14:49:04,228 - trainers.trainer - INFO - Negative Log-Loss decrease from -0.04171 to -0.04252, saving to logs_results_attn_cnf_sepsis\Trial\saved_model\epo10.tar
+2023-11-27 14:59:00,680 - trainers.trainer - INFO - Loaded model at 10
+2023-11-27 16:46:24,577 - trainers.trainer - INFO - Log directory: logs_results_attn_LogNorm_sepsis\Trial
+2023-11-27 16:46:29,265 - trainers.trainer - INFO - the number of trainable parameters: 15980
+2023-11-27 16:46:29,266 - trainers.trainer - INFO - Start training the model ...
+2023-11-27 16:50:46,151 - trainers.trainer - INFO - ---Epoch.0 Train Negative Overall Log-Loss per event: 0.282076. 
+2023-11-27 16:50:46,153 - trainers.trainer - INFO - ---Epoch.0 Val Negative Log-Loss per event: 0.192228; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 16:50:46,159 - trainers.trainer - INFO - Saved model at 0
+2023-11-27 16:50:46,160 - trainers.trainer - INFO - Negative Log-Loss decrease from inf to 0.19223, saving to logs_results_attn_LogNorm_sepsis\Trial\saved_model\epo0.tar
+2023-11-27 16:55:22,675 - trainers.trainer - INFO - ---Epoch.1 Train Negative Overall Log-Loss per event: 0.185710. 
+2023-11-27 16:55:22,677 - trainers.trainer - INFO - ---Epoch.1 Val Negative Log-Loss per event: 0.169864; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 16:55:22,684 - trainers.trainer - INFO - Saved model at 1
+2023-11-27 16:55:22,686 - trainers.trainer - INFO - Negative Log-Loss decrease from 0.19223 to 0.16986, saving to logs_results_attn_LogNorm_sepsis\Trial\saved_model\epo1.tar
+2023-11-27 17:00:08,906 - trainers.trainer - INFO - ---Epoch.2 Train Negative Overall Log-Loss per event: 0.154351. 
+2023-11-27 17:00:08,908 - trainers.trainer - INFO - ---Epoch.2 Val Negative Log-Loss per event: 0.142803; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 17:00:08,914 - trainers.trainer - INFO - Saved model at 2
+2023-11-27 17:00:08,917 - trainers.trainer - INFO - Negative Log-Loss decrease from 0.16986 to 0.14280, saving to logs_results_attn_LogNorm_sepsis\Trial\saved_model\epo2.tar
+2023-11-27 17:04:58,807 - trainers.trainer - INFO - ---Epoch.3 Train Negative Overall Log-Loss per event: 0.132472. 
+2023-11-27 17:04:58,809 - trainers.trainer - INFO - ---Epoch.3 Val Negative Log-Loss per event: 0.090994; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 17:04:58,815 - trainers.trainer - INFO - Saved model at 3
+2023-11-27 17:04:58,817 - trainers.trainer - INFO - Negative Log-Loss decrease from 0.14280 to 0.09099, saving to logs_results_attn_LogNorm_sepsis\Trial\saved_model\epo3.tar
+2023-11-27 17:09:51,012 - trainers.trainer - INFO - ---Epoch.4 Train Negative Overall Log-Loss per event: 0.118350. 
+2023-11-27 17:09:51,014 - trainers.trainer - INFO - ---Epoch.4 Val Negative Log-Loss per event: 0.075154; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 17:09:51,020 - trainers.trainer - INFO - Saved model at 4
+2023-11-27 17:09:51,022 - trainers.trainer - INFO - Negative Log-Loss decrease from 0.09099 to 0.07515, saving to logs_results_attn_LogNorm_sepsis\Trial\saved_model\epo4.tar
+2023-11-27 17:14:39,287 - trainers.trainer - INFO - ---Epoch.5 Train Negative Overall Log-Loss per event: 0.106962. 
+2023-11-27 17:14:39,289 - trainers.trainer - INFO - ---Epoch.5 Val Negative Log-Loss per event: 0.077966; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 17:19:46,414 - trainers.trainer - INFO - ---Epoch.6 Train Negative Overall Log-Loss per event: 0.099326. 
+2023-11-27 17:19:46,415 - trainers.trainer - INFO - ---Epoch.6 Val Negative Log-Loss per event: 0.085848; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 17:24:42,787 - trainers.trainer - INFO - ---Epoch.7 Train Negative Overall Log-Loss per event: 0.091706. 
+2023-11-27 17:24:42,790 - trainers.trainer - INFO - ---Epoch.7 Val Negative Log-Loss per event: 0.086657; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 17:29:45,759 - trainers.trainer - INFO - ---Epoch.8 Train Negative Overall Log-Loss per event: 0.085694. 
+2023-11-27 17:29:45,762 - trainers.trainer - INFO - ---Epoch.8 Val Negative Log-Loss per event: 0.068831; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 17:29:45,768 - trainers.trainer - INFO - Saved model at 8
+2023-11-27 17:29:45,769 - trainers.trainer - INFO - Negative Log-Loss decrease from 0.07515 to 0.06883, saving to logs_results_attn_LogNorm_sepsis\Trial\saved_model\epo8.tar
+2023-11-27 17:34:46,873 - trainers.trainer - INFO - ---Epoch.9 Train Negative Overall Log-Loss per event: 0.073526. 
+2023-11-27 17:34:46,875 - trainers.trainer - INFO - ---Epoch.9 Val Negative Log-Loss per event: 0.049874; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 17:35:09,869 - trainers.trainer - INFO - ---Epoch.9 Test Negative Log-Loss per event: 0.047050; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_Dev: 0.000000
+2023-11-27 17:35:09,877 - trainers.trainer - INFO - Saved model at 9
+2023-11-27 17:35:09,880 - trainers.trainer - INFO - Negative Log-Loss decrease from 0.06883 to 0.04987, saving to logs_results_attn_LogNorm_sepsis\Trial\saved_model\epo9.tar
+2023-11-27 17:40:14,118 - trainers.trainer - INFO - ---Epoch.10 Train Negative Overall Log-Loss per event: 0.065671. 
+2023-11-27 17:40:14,120 - trainers.trainer - INFO - ---Epoch.10 Val Negative Log-Loss per event: 0.096391; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 17:45:15,506 - trainers.trainer - INFO - ---Epoch.11 Train Negative Overall Log-Loss per event: 0.069079. 
+2023-11-27 17:45:15,509 - trainers.trainer - INFO - ---Epoch.11 Val Negative Log-Loss per event: 0.078082; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 17:50:18,898 - trainers.trainer - INFO - ---Epoch.12 Train Negative Overall Log-Loss per event: 0.069030. 
+2023-11-27 17:50:18,900 - trainers.trainer - INFO - ---Epoch.12 Val Negative Log-Loss per event: 0.102445; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 17:55:12,781 - trainers.trainer - INFO - ---Epoch.13 Train Negative Overall Log-Loss per event: 0.093792. 
+2023-11-27 17:55:12,783 - trainers.trainer - INFO - ---Epoch.13 Val Negative Log-Loss per event: 0.113675; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 18:00:09,411 - trainers.trainer - INFO - ---Epoch.14 Train Negative Overall Log-Loss per event: 0.062657. 
+2023-11-27 18:00:09,413 - trainers.trainer - INFO - ---Epoch.14 Val Negative Log-Loss per event: 0.023296; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 18:00:09,421 - trainers.trainer - INFO - Saved model at 14
+2023-11-27 18:00:09,424 - trainers.trainer - INFO - Negative Log-Loss decrease from 0.04987 to 0.02330, saving to logs_results_attn_LogNorm_sepsis\Trial\saved_model\epo14.tar
+2023-11-27 18:02:25,169 - trainers.trainer - INFO - Loaded model at 14
+2023-11-27 18:03:19,244 - trainers.trainer - INFO - ---Epoch.14 Test Negative Log-Loss per event: 0.019961; Negative Log-Likelihood per event:-0.129727; Cross-Entropy per event: 0.149688; MAPE: 10.997406; CRPS:0.411286; Acc_Top1: 0.072357; Acc_Top3: 0.106108; QQ_Dev: 1.858243
+2023-11-27 18:03:19,247 - trainers.trainer - INFO - Mean Negative_likelihood on test: 0.019961068406701088, Variance: 0.0
+2023-11-27 21:38:12,219 - trainers.trainer - INFO - Log directory: logs_results_attn_cnf_sepsis\Trial
+2023-11-27 21:38:12,219 - trainers.trainer - INFO - Log directory: logs_results_attn_cnf_sepsis\Trial
+2023-11-27 21:38:48,449 - trainers.trainer - INFO - Loaded model at 9
+2023-11-27 21:38:48,449 - trainers.trainer - INFO - Loaded model at 9
+2023-11-27 22:01:39,030 - trainers.trainer - INFO - Log directory: logs_results_attn_LogNorm_sepsis\Trial
+2023-11-27 22:01:39,030 - trainers.trainer - INFO - Log directory: logs_results_attn_LogNorm_sepsis\Trial
+2023-11-27 22:01:42,350 - trainers.trainer - INFO - Loaded model at 9
+2023-11-27 22:01:42,350 - trainers.trainer - INFO - Loaded model at 9
+2023-11-27 22:02:04,209 - trainers.trainer - INFO - Loaded model at 14
+2023-11-27 22:02:04,209 - trainers.trainer - INFO - Loaded model at 14

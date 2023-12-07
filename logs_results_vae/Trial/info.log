@@ -1,0 +1,537 @@
+2023-11-26 19:10:41,588 - trainers.trainer - INFO - Log directory: logs_results_vae\Trial
+2023-11-26 19:10:43,687 - trainers.trainer - INFO - the number of trainable parameters: 22132
+2023-11-26 19:10:43,689 - trainers.trainer - INFO - Start training the model ...
+2023-11-26 19:11:47,648 - trainers.trainer - INFO - ---Epoch.0 Train Negative Overall Log-Loss per event: 4.520931. 
+2023-11-26 19:11:47,650 - trainers.trainer - INFO - ---Epoch.0 Val Negative Log-Loss per event: 3.104732; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:11:47,657 - trainers.trainer - INFO - Saved model at 0
+2023-11-26 19:11:47,659 - trainers.trainer - INFO - Negative Log-Loss decrease from inf to 3.10473, saving to logs_results_vae\Trial\saved_model\epo0.tar
+2023-11-26 19:12:49,341 - trainers.trainer - INFO - ---Epoch.1 Train Negative Overall Log-Loss per event: 3.253558. 
+2023-11-26 19:12:49,343 - trainers.trainer - INFO - ---Epoch.1 Val Negative Log-Loss per event: 2.703316; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:12:49,350 - trainers.trainer - INFO - Saved model at 1
+2023-11-26 19:12:49,352 - trainers.trainer - INFO - Negative Log-Loss decrease from 3.10473 to 2.70332, saving to logs_results_vae\Trial\saved_model\epo1.tar
+2023-11-26 19:13:52,524 - trainers.trainer - INFO - ---Epoch.2 Train Negative Overall Log-Loss per event: 2.958802. 
+2023-11-26 19:13:52,526 - trainers.trainer - INFO - ---Epoch.2 Val Negative Log-Loss per event: 2.670571; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:13:52,532 - trainers.trainer - INFO - Saved model at 2
+2023-11-26 19:13:52,534 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.70332 to 2.67057, saving to logs_results_vae\Trial\saved_model\epo2.tar
+2023-11-26 19:14:57,030 - trainers.trainer - INFO - ---Epoch.3 Train Negative Overall Log-Loss per event: 2.937315. 
+2023-11-26 19:14:57,031 - trainers.trainer - INFO - ---Epoch.3 Val Negative Log-Loss per event: 2.670438; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:14:57,038 - trainers.trainer - INFO - Saved model at 3
+2023-11-26 19:14:57,039 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.67057 to 2.67044, saving to logs_results_vae\Trial\saved_model\epo3.tar
+2023-11-26 19:16:02,647 - trainers.trainer - INFO - ---Epoch.4 Train Negative Overall Log-Loss per event: 2.926556. 
+2023-11-26 19:16:02,649 - trainers.trainer - INFO - ---Epoch.4 Val Negative Log-Loss per event: 2.657227; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:16:02,656 - trainers.trainer - INFO - Saved model at 4
+2023-11-26 19:16:02,657 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.67044 to 2.65723, saving to logs_results_vae\Trial\saved_model\epo4.tar
+2023-11-26 19:17:05,897 - trainers.trainer - INFO - ---Epoch.5 Train Negative Overall Log-Loss per event: 2.922389. 
+2023-11-26 19:17:05,899 - trainers.trainer - INFO - ---Epoch.5 Val Negative Log-Loss per event: 2.651840; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:17:05,906 - trainers.trainer - INFO - Saved model at 5
+2023-11-26 19:17:05,908 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.65723 to 2.65184, saving to logs_results_vae\Trial\saved_model\epo5.tar
+2023-11-26 19:18:09,623 - trainers.trainer - INFO - ---Epoch.6 Train Negative Overall Log-Loss per event: 2.918789. 
+2023-11-26 19:18:09,625 - trainers.trainer - INFO - ---Epoch.6 Val Negative Log-Loss per event: 2.654526; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:19:13,447 - trainers.trainer - INFO - ---Epoch.7 Train Negative Overall Log-Loss per event: 2.912314. 
+2023-11-26 19:19:13,449 - trainers.trainer - INFO - ---Epoch.7 Val Negative Log-Loss per event: 2.662659; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:20:16,726 - trainers.trainer - INFO - ---Epoch.8 Train Negative Overall Log-Loss per event: 2.910943. 
+2023-11-26 19:20:16,728 - trainers.trainer - INFO - ---Epoch.8 Val Negative Log-Loss per event: 2.644073; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:20:16,735 - trainers.trainer - INFO - Saved model at 8
+2023-11-26 19:20:16,737 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.65184 to 2.64407, saving to logs_results_vae\Trial\saved_model\epo8.tar
+2023-11-26 19:21:19,747 - trainers.trainer - INFO - ---Epoch.9 Train Negative Overall Log-Loss per event: 2.905296. 
+2023-11-26 19:21:19,750 - trainers.trainer - INFO - ---Epoch.9 Val Negative Log-Loss per event: 2.647953; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:21:21,247 - trainers.trainer - INFO - ---Epoch.9 Test Negative Log-Loss per event: 2.581744; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_Dev: 0.000000
+2023-11-26 19:22:28,503 - trainers.trainer - INFO - ---Epoch.10 Train Negative Overall Log-Loss per event: 2.905624. 
+2023-11-26 19:22:28,506 - trainers.trainer - INFO - ---Epoch.10 Val Negative Log-Loss per event: 2.647848; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:23:33,460 - trainers.trainer - INFO - ---Epoch.11 Train Negative Overall Log-Loss per event: 2.903418. 
+2023-11-26 19:23:33,462 - trainers.trainer - INFO - ---Epoch.11 Val Negative Log-Loss per event: 2.641794; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:23:33,469 - trainers.trainer - INFO - Saved model at 11
+2023-11-26 19:23:33,470 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.64407 to 2.64179, saving to logs_results_vae\Trial\saved_model\epo11.tar
+2023-11-26 19:24:36,485 - trainers.trainer - INFO - ---Epoch.12 Train Negative Overall Log-Loss per event: 2.901801. 
+2023-11-26 19:24:36,487 - trainers.trainer - INFO - ---Epoch.12 Val Negative Log-Loss per event: 2.637635; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:24:36,495 - trainers.trainer - INFO - Saved model at 12
+2023-11-26 19:24:36,496 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.64179 to 2.63763, saving to logs_results_vae\Trial\saved_model\epo12.tar
+2023-11-26 19:25:40,197 - trainers.trainer - INFO - ---Epoch.13 Train Negative Overall Log-Loss per event: 2.898926. 
+2023-11-26 19:25:40,200 - trainers.trainer - INFO - ---Epoch.13 Val Negative Log-Loss per event: 2.635432; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:25:40,205 - trainers.trainer - INFO - Saved model at 13
+2023-11-26 19:25:40,207 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.63763 to 2.63543, saving to logs_results_vae\Trial\saved_model\epo13.tar
+2023-11-26 19:26:43,206 - trainers.trainer - INFO - ---Epoch.14 Train Negative Overall Log-Loss per event: 2.897703. 
+2023-11-26 19:26:43,207 - trainers.trainer - INFO - ---Epoch.14 Val Negative Log-Loss per event: 2.636250; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:27:46,594 - trainers.trainer - INFO - ---Epoch.15 Train Negative Overall Log-Loss per event: 2.895645. 
+2023-11-26 19:27:46,596 - trainers.trainer - INFO - ---Epoch.15 Val Negative Log-Loss per event: 2.634056; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:27:46,602 - trainers.trainer - INFO - Saved model at 15
+2023-11-26 19:27:46,604 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.63543 to 2.63406, saving to logs_results_vae\Trial\saved_model\epo15.tar
+2023-11-26 19:28:50,995 - trainers.trainer - INFO - ---Epoch.16 Train Negative Overall Log-Loss per event: 2.897109. 
+2023-11-26 19:28:50,997 - trainers.trainer - INFO - ---Epoch.16 Val Negative Log-Loss per event: 2.651882; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:29:55,188 - trainers.trainer - INFO - ---Epoch.17 Train Negative Overall Log-Loss per event: 2.895957. 
+2023-11-26 19:29:55,189 - trainers.trainer - INFO - ---Epoch.17 Val Negative Log-Loss per event: 2.653790; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:30:58,668 - trainers.trainer - INFO - ---Epoch.18 Train Negative Overall Log-Loss per event: 2.893970. 
+2023-11-26 19:30:58,671 - trainers.trainer - INFO - ---Epoch.18 Val Negative Log-Loss per event: 2.645892; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:32:02,506 - trainers.trainer - INFO - ---Epoch.19 Train Negative Overall Log-Loss per event: 2.893084. 
+2023-11-26 19:32:02,508 - trainers.trainer - INFO - ---Epoch.19 Val Negative Log-Loss per event: 2.629197; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:32:03,965 - trainers.trainer - INFO - ---Epoch.19 Test Negative Log-Loss per event: 2.571393; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_Dev: 0.000000
+2023-11-26 19:32:03,971 - trainers.trainer - INFO - Saved model at 19
+2023-11-26 19:32:03,973 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.63406 to 2.62920, saving to logs_results_vae\Trial\saved_model\epo19.tar
+2023-11-26 19:33:07,289 - trainers.trainer - INFO - ---Epoch.20 Train Negative Overall Log-Loss per event: 2.886703. 
+2023-11-26 19:33:07,291 - trainers.trainer - INFO - ---Epoch.20 Val Negative Log-Loss per event: 2.623659; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:33:07,297 - trainers.trainer - INFO - Saved model at 20
+2023-11-26 19:33:07,298 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.62920 to 2.62366, saving to logs_results_vae\Trial\saved_model\epo20.tar
+2023-11-26 19:34:11,068 - trainers.trainer - INFO - ---Epoch.21 Train Negative Overall Log-Loss per event: 2.886632. 
+2023-11-26 19:34:11,070 - trainers.trainer - INFO - ---Epoch.21 Val Negative Log-Loss per event: 2.625707; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:35:16,116 - trainers.trainer - INFO - ---Epoch.22 Train Negative Overall Log-Loss per event: 2.884408. 
+2023-11-26 19:35:16,119 - trainers.trainer - INFO - ---Epoch.22 Val Negative Log-Loss per event: 2.638413; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:36:19,967 - trainers.trainer - INFO - ---Epoch.23 Train Negative Overall Log-Loss per event: 2.883381. 
+2023-11-26 19:36:19,969 - trainers.trainer - INFO - ---Epoch.23 Val Negative Log-Loss per event: 2.629246; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:37:23,343 - trainers.trainer - INFO - ---Epoch.24 Train Negative Overall Log-Loss per event: 2.884879. 
+2023-11-26 19:37:23,345 - trainers.trainer - INFO - ---Epoch.24 Val Negative Log-Loss per event: 2.624245; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:38:26,922 - trainers.trainer - INFO - ---Epoch.25 Train Negative Overall Log-Loss per event: 2.885115. 
+2023-11-26 19:38:26,924 - trainers.trainer - INFO - ---Epoch.25 Val Negative Log-Loss per event: 2.627037; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:39:31,935 - trainers.trainer - INFO - ---Epoch.26 Train Negative Overall Log-Loss per event: 2.884887. 
+2023-11-26 19:39:31,939 - trainers.trainer - INFO - ---Epoch.26 Val Negative Log-Loss per event: 2.622114; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:39:31,947 - trainers.trainer - INFO - Saved model at 26
+2023-11-26 19:39:31,949 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.62366 to 2.62211, saving to logs_results_vae\Trial\saved_model\epo26.tar
+2023-11-26 19:40:35,732 - trainers.trainer - INFO - ---Epoch.27 Train Negative Overall Log-Loss per event: 2.882674. 
+2023-11-26 19:40:35,734 - trainers.trainer - INFO - ---Epoch.27 Val Negative Log-Loss per event: 2.624534; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:41:39,985 - trainers.trainer - INFO - ---Epoch.28 Train Negative Overall Log-Loss per event: 2.880975. 
+2023-11-26 19:41:39,987 - trainers.trainer - INFO - ---Epoch.28 Val Negative Log-Loss per event: 2.616029; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:41:39,994 - trainers.trainer - INFO - Saved model at 28
+2023-11-26 19:41:39,995 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.62211 to 2.61603, saving to logs_results_vae\Trial\saved_model\epo28.tar
+2023-11-26 19:42:44,351 - trainers.trainer - INFO - ---Epoch.29 Train Negative Overall Log-Loss per event: 2.881243. 
+2023-11-26 19:42:44,353 - trainers.trainer - INFO - ---Epoch.29 Val Negative Log-Loss per event: 2.626668; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:42:45,845 - trainers.trainer - INFO - ---Epoch.29 Test Negative Log-Loss per event: 2.570016; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_Dev: 0.000000
+2023-11-26 19:43:51,566 - trainers.trainer - INFO - ---Epoch.30 Train Negative Overall Log-Loss per event: 2.880864. 
+2023-11-26 19:43:51,569 - trainers.trainer - INFO - ---Epoch.30 Val Negative Log-Loss per event: 2.619544; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:44:55,296 - trainers.trainer - INFO - ---Epoch.31 Train Negative Overall Log-Loss per event: 2.881625. 
+2023-11-26 19:44:55,298 - trainers.trainer - INFO - ---Epoch.31 Val Negative Log-Loss per event: 2.626226; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:45:59,438 - trainers.trainer - INFO - ---Epoch.32 Train Negative Overall Log-Loss per event: 2.879845. 
+2023-11-26 19:45:59,440 - trainers.trainer - INFO - ---Epoch.32 Val Negative Log-Loss per event: 2.618339; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:47:03,294 - trainers.trainer - INFO - ---Epoch.33 Train Negative Overall Log-Loss per event: 2.881206. 
+2023-11-26 19:47:03,295 - trainers.trainer - INFO - ---Epoch.33 Val Negative Log-Loss per event: 2.620005; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:48:08,426 - trainers.trainer - INFO - ---Epoch.34 Train Negative Overall Log-Loss per event: 2.879807. 
+2023-11-26 19:48:08,429 - trainers.trainer - INFO - ---Epoch.34 Val Negative Log-Loss per event: 2.627146; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:49:13,172 - trainers.trainer - INFO - ---Epoch.35 Train Negative Overall Log-Loss per event: 2.878685. 
+2023-11-26 19:49:13,174 - trainers.trainer - INFO - ---Epoch.35 Val Negative Log-Loss per event: 2.622814; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:50:20,034 - trainers.trainer - INFO - ---Epoch.36 Train Negative Overall Log-Loss per event: 2.879713. 
+2023-11-26 19:50:20,037 - trainers.trainer - INFO - ---Epoch.36 Val Negative Log-Loss per event: 2.623441; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:51:24,608 - trainers.trainer - INFO - ---Epoch.37 Train Negative Overall Log-Loss per event: 2.879089. 
+2023-11-26 19:51:24,610 - trainers.trainer - INFO - ---Epoch.37 Val Negative Log-Loss per event: 2.624657; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:52:28,391 - trainers.trainer - INFO - ---Epoch.38 Train Negative Overall Log-Loss per event: 2.879956. 
+2023-11-26 19:52:28,393 - trainers.trainer - INFO - ---Epoch.38 Val Negative Log-Loss per event: 2.630069; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:53:32,673 - trainers.trainer - INFO - ---Epoch.39 Train Negative Overall Log-Loss per event: 2.879727. 
+2023-11-26 19:53:32,674 - trainers.trainer - INFO - ---Epoch.39 Val Negative Log-Loss per event: 2.626189; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:53:34,329 - trainers.trainer - INFO - ---Epoch.39 Test Negative Log-Loss per event: 2.572903; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_Dev: 0.000000
+2023-11-26 19:54:39,805 - trainers.trainer - INFO - ---Epoch.40 Train Negative Overall Log-Loss per event: 2.877044. 
+2023-11-26 19:54:39,807 - trainers.trainer - INFO - ---Epoch.40 Val Negative Log-Loss per event: 2.623927; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:55:44,078 - trainers.trainer - INFO - ---Epoch.41 Train Negative Overall Log-Loss per event: 2.873586. 
+2023-11-26 19:55:44,080 - trainers.trainer - INFO - ---Epoch.41 Val Negative Log-Loss per event: 2.625623; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:56:49,595 - trainers.trainer - INFO - ---Epoch.42 Train Negative Overall Log-Loss per event: 2.874700. 
+2023-11-26 19:56:49,597 - trainers.trainer - INFO - ---Epoch.42 Val Negative Log-Loss per event: 2.622653; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:57:54,619 - trainers.trainer - INFO - ---Epoch.43 Train Negative Overall Log-Loss per event: 2.875510. 
+2023-11-26 19:57:54,621 - trainers.trainer - INFO - ---Epoch.43 Val Negative Log-Loss per event: 2.615007; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 19:57:54,629 - trainers.trainer - INFO - Saved model at 43
+2023-11-26 19:57:54,632 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.61603 to 2.61501, saving to logs_results_vae\Trial\saved_model\epo43.tar
+2023-11-26 19:59:01,643 - trainers.trainer - INFO - ---Epoch.44 Train Negative Overall Log-Loss per event: 2.876196. 
+2023-11-26 19:59:01,645 - trainers.trainer - INFO - ---Epoch.44 Val Negative Log-Loss per event: 2.615933; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:00:06,800 - trainers.trainer - INFO - ---Epoch.45 Train Negative Overall Log-Loss per event: 2.874989. 
+2023-11-26 20:00:06,802 - trainers.trainer - INFO - ---Epoch.45 Val Negative Log-Loss per event: 2.625224; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:01:12,739 - trainers.trainer - INFO - ---Epoch.46 Train Negative Overall Log-Loss per event: 2.873351. 
+2023-11-26 20:01:12,740 - trainers.trainer - INFO - ---Epoch.46 Val Negative Log-Loss per event: 2.616322; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:02:17,181 - trainers.trainer - INFO - ---Epoch.47 Train Negative Overall Log-Loss per event: 2.876913. 
+2023-11-26 20:02:17,184 - trainers.trainer - INFO - ---Epoch.47 Val Negative Log-Loss per event: 2.619250; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:03:23,469 - trainers.trainer - INFO - ---Epoch.48 Train Negative Overall Log-Loss per event: 2.872899. 
+2023-11-26 20:03:23,471 - trainers.trainer - INFO - ---Epoch.48 Val Negative Log-Loss per event: 2.616036; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:04:28,103 - trainers.trainer - INFO - ---Epoch.49 Train Negative Overall Log-Loss per event: 2.873850. 
+2023-11-26 20:04:28,105 - trainers.trainer - INFO - ---Epoch.49 Val Negative Log-Loss per event: 2.619502; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:04:29,816 - trainers.trainer - INFO - ---Epoch.49 Test Negative Log-Loss per event: 2.563503; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_Dev: 0.000000
+2023-11-26 20:05:35,802 - trainers.trainer - INFO - ---Epoch.50 Train Negative Overall Log-Loss per event: 2.872522. 
+2023-11-26 20:05:35,804 - trainers.trainer - INFO - ---Epoch.50 Val Negative Log-Loss per event: 2.617409; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:06:41,534 - trainers.trainer - INFO - ---Epoch.51 Train Negative Overall Log-Loss per event: 2.873037. 
+2023-11-26 20:06:41,536 - trainers.trainer - INFO - ---Epoch.51 Val Negative Log-Loss per event: 2.624825; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:07:46,865 - trainers.trainer - INFO - ---Epoch.52 Train Negative Overall Log-Loss per event: 2.873857. 
+2023-11-26 20:07:46,869 - trainers.trainer - INFO - ---Epoch.52 Val Negative Log-Loss per event: 2.617923; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:08:54,823 - trainers.trainer - INFO - ---Epoch.53 Train Negative Overall Log-Loss per event: 2.872990. 
+2023-11-26 20:08:54,825 - trainers.trainer - INFO - ---Epoch.53 Val Negative Log-Loss per event: 2.619060; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:10:00,201 - trainers.trainer - INFO - ---Epoch.54 Train Negative Overall Log-Loss per event: 2.874291. 
+2023-11-26 20:10:00,203 - trainers.trainer - INFO - ---Epoch.54 Val Negative Log-Loss per event: 2.619933; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:11:06,189 - trainers.trainer - INFO - ---Epoch.55 Train Negative Overall Log-Loss per event: 2.873520. 
+2023-11-26 20:11:06,191 - trainers.trainer - INFO - ---Epoch.55 Val Negative Log-Loss per event: 2.621152; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:12:11,254 - trainers.trainer - INFO - ---Epoch.56 Train Negative Overall Log-Loss per event: 2.874491. 
+2023-11-26 20:12:11,257 - trainers.trainer - INFO - ---Epoch.56 Val Negative Log-Loss per event: 2.618082; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:13:17,150 - trainers.trainer - INFO - ---Epoch.57 Train Negative Overall Log-Loss per event: 2.871686. 
+2023-11-26 20:13:17,152 - trainers.trainer - INFO - ---Epoch.57 Val Negative Log-Loss per event: 2.618197; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:14:24,387 - trainers.trainer - INFO - ---Epoch.58 Train Negative Overall Log-Loss per event: 2.872315. 
+2023-11-26 20:14:24,390 - trainers.trainer - INFO - ---Epoch.58 Val Negative Log-Loss per event: 2.619038; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:15:29,988 - trainers.trainer - INFO - ---Epoch.59 Train Negative Overall Log-Loss per event: 2.873131. 
+2023-11-26 20:15:29,990 - trainers.trainer - INFO - ---Epoch.59 Val Negative Log-Loss per event: 2.615821; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:15:31,490 - trainers.trainer - INFO - ---Epoch.59 Test Negative Log-Loss per event: 2.556367; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_Dev: 0.000000
+2023-11-26 20:16:37,157 - trainers.trainer - INFO - ---Epoch.60 Train Negative Overall Log-Loss per event: 2.870697. 
+2023-11-26 20:16:37,159 - trainers.trainer - INFO - ---Epoch.60 Val Negative Log-Loss per event: 2.623723; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:17:42,186 - trainers.trainer - INFO - ---Epoch.61 Train Negative Overall Log-Loss per event: 2.870386. 
+2023-11-26 20:17:42,188 - trainers.trainer - INFO - ---Epoch.61 Val Negative Log-Loss per event: 2.615307; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:18:45,135 - trainers.trainer - INFO - ---Epoch.62 Train Negative Overall Log-Loss per event: 2.869980. 
+2023-11-26 20:18:45,137 - trainers.trainer - INFO - ---Epoch.62 Val Negative Log-Loss per event: 2.615541; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:19:47,524 - trainers.trainer - INFO - ---Epoch.63 Train Negative Overall Log-Loss per event: 2.868684. 
+2023-11-26 20:19:47,526 - trainers.trainer - INFO - ---Epoch.63 Val Negative Log-Loss per event: 2.621592; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:20:50,024 - trainers.trainer - INFO - ---Epoch.64 Train Negative Overall Log-Loss per event: 2.870212. 
+2023-11-26 20:20:50,025 - trainers.trainer - INFO - ---Epoch.64 Val Negative Log-Loss per event: 2.612336; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:20:50,032 - trainers.trainer - INFO - Saved model at 64
+2023-11-26 20:20:50,033 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.61501 to 2.61234, saving to logs_results_vae\Trial\saved_model\epo64.tar
+2023-11-26 20:21:52,749 - trainers.trainer - INFO - ---Epoch.65 Train Negative Overall Log-Loss per event: 2.872845. 
+2023-11-26 20:21:52,751 - trainers.trainer - INFO - ---Epoch.65 Val Negative Log-Loss per event: 2.611806; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:21:52,757 - trainers.trainer - INFO - Saved model at 65
+2023-11-26 20:21:52,759 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.61234 to 2.61181, saving to logs_results_vae\Trial\saved_model\epo65.tar
+2023-11-26 20:22:54,742 - trainers.trainer - INFO - ---Epoch.66 Train Negative Overall Log-Loss per event: 2.871686. 
+2023-11-26 20:22:54,744 - trainers.trainer - INFO - ---Epoch.66 Val Negative Log-Loss per event: 2.623399; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:23:56,441 - trainers.trainer - INFO - ---Epoch.67 Train Negative Overall Log-Loss per event: 2.868925. 
+2023-11-26 20:23:56,443 - trainers.trainer - INFO - ---Epoch.67 Val Negative Log-Loss per event: 2.615896; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:24:56,727 - trainers.trainer - INFO - ---Epoch.68 Train Negative Overall Log-Loss per event: 2.870350. 
+2023-11-26 20:24:56,729 - trainers.trainer - INFO - ---Epoch.68 Val Negative Log-Loss per event: 2.616582; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:25:58,221 - trainers.trainer - INFO - ---Epoch.69 Train Negative Overall Log-Loss per event: 2.870629. 
+2023-11-26 20:25:58,223 - trainers.trainer - INFO - ---Epoch.69 Val Negative Log-Loss per event: 2.606899; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:25:59,786 - trainers.trainer - INFO - ---Epoch.69 Test Negative Log-Loss per event: 2.559072; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_Dev: 0.000000
+2023-11-26 20:25:59,793 - trainers.trainer - INFO - Saved model at 69
+2023-11-26 20:25:59,794 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.61181 to 2.60690, saving to logs_results_vae\Trial\saved_model\epo69.tar
+2023-11-26 20:27:01,458 - trainers.trainer - INFO - ---Epoch.70 Train Negative Overall Log-Loss per event: 2.867465. 
+2023-11-26 20:27:01,459 - trainers.trainer - INFO - ---Epoch.70 Val Negative Log-Loss per event: 2.614811; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:28:01,905 - trainers.trainer - INFO - ---Epoch.71 Train Negative Overall Log-Loss per event: 2.869750. 
+2023-11-26 20:28:01,907 - trainers.trainer - INFO - ---Epoch.71 Val Negative Log-Loss per event: 2.614719; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:29:04,598 - trainers.trainer - INFO - ---Epoch.72 Train Negative Overall Log-Loss per event: 2.867600. 
+2023-11-26 20:29:04,601 - trainers.trainer - INFO - ---Epoch.72 Val Negative Log-Loss per event: 2.616761; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:30:05,022 - trainers.trainer - INFO - ---Epoch.73 Train Negative Overall Log-Loss per event: 2.872499. 
+2023-11-26 20:30:05,024 - trainers.trainer - INFO - ---Epoch.73 Val Negative Log-Loss per event: 2.614838; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:31:06,465 - trainers.trainer - INFO - ---Epoch.74 Train Negative Overall Log-Loss per event: 2.867012. 
+2023-11-26 20:31:06,468 - trainers.trainer - INFO - ---Epoch.74 Val Negative Log-Loss per event: 2.615615; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:32:06,928 - trainers.trainer - INFO - ---Epoch.75 Train Negative Overall Log-Loss per event: 2.868271. 
+2023-11-26 20:32:06,929 - trainers.trainer - INFO - ---Epoch.75 Val Negative Log-Loss per event: 2.614171; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:33:07,885 - trainers.trainer - INFO - ---Epoch.76 Train Negative Overall Log-Loss per event: 2.869255. 
+2023-11-26 20:33:07,887 - trainers.trainer - INFO - ---Epoch.76 Val Negative Log-Loss per event: 2.615305; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:34:09,007 - trainers.trainer - INFO - ---Epoch.77 Train Negative Overall Log-Loss per event: 2.870048. 
+2023-11-26 20:34:09,008 - trainers.trainer - INFO - ---Epoch.77 Val Negative Log-Loss per event: 2.615627; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:35:10,526 - trainers.trainer - INFO - ---Epoch.78 Train Negative Overall Log-Loss per event: 2.870657. 
+2023-11-26 20:35:10,528 - trainers.trainer - INFO - ---Epoch.78 Val Negative Log-Loss per event: 2.623230; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:36:11,877 - trainers.trainer - INFO - ---Epoch.79 Train Negative Overall Log-Loss per event: 2.868167. 
+2023-11-26 20:36:11,879 - trainers.trainer - INFO - ---Epoch.79 Val Negative Log-Loss per event: 2.614550; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:36:13,268 - trainers.trainer - INFO - ---Epoch.79 Test Negative Log-Loss per event: 2.559796; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_Dev: 0.000000
+2023-11-26 20:37:14,079 - trainers.trainer - INFO - ---Epoch.80 Train Negative Overall Log-Loss per event: 2.866302. 
+2023-11-26 20:37:14,081 - trainers.trainer - INFO - ---Epoch.80 Val Negative Log-Loss per event: 2.615144; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:38:15,213 - trainers.trainer - INFO - ---Epoch.81 Train Negative Overall Log-Loss per event: 2.869076. 
+2023-11-26 20:38:15,215 - trainers.trainer - INFO - ---Epoch.81 Val Negative Log-Loss per event: 2.620503; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:39:16,810 - trainers.trainer - INFO - ---Epoch.82 Train Negative Overall Log-Loss per event: 2.869617. 
+2023-11-26 20:39:16,812 - trainers.trainer - INFO - ---Epoch.82 Val Negative Log-Loss per event: 2.616185; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:40:17,557 - trainers.trainer - INFO - ---Epoch.83 Train Negative Overall Log-Loss per event: 2.868924. 
+2023-11-26 20:40:17,559 - trainers.trainer - INFO - ---Epoch.83 Val Negative Log-Loss per event: 2.618244; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:41:18,648 - trainers.trainer - INFO - ---Epoch.84 Train Negative Overall Log-Loss per event: 2.870103. 
+2023-11-26 20:41:18,650 - trainers.trainer - INFO - ---Epoch.84 Val Negative Log-Loss per event: 2.614072; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:42:19,452 - trainers.trainer - INFO - ---Epoch.85 Train Negative Overall Log-Loss per event: 2.869058. 
+2023-11-26 20:42:19,455 - trainers.trainer - INFO - ---Epoch.85 Val Negative Log-Loss per event: 2.611813; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:43:20,839 - trainers.trainer - INFO - ---Epoch.86 Train Negative Overall Log-Loss per event: 2.866137. 
+2023-11-26 20:43:20,841 - trainers.trainer - INFO - ---Epoch.86 Val Negative Log-Loss per event: 2.612373; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:44:22,342 - trainers.trainer - INFO - ---Epoch.87 Train Negative Overall Log-Loss per event: 2.868184. 
+2023-11-26 20:44:22,343 - trainers.trainer - INFO - ---Epoch.87 Val Negative Log-Loss per event: 2.614082; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:45:23,968 - trainers.trainer - INFO - ---Epoch.88 Train Negative Overall Log-Loss per event: 2.868204. 
+2023-11-26 20:45:23,970 - trainers.trainer - INFO - ---Epoch.88 Val Negative Log-Loss per event: 2.611927; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:46:24,942 - trainers.trainer - INFO - ---Epoch.89 Train Negative Overall Log-Loss per event: 2.868214. 
+2023-11-26 20:46:24,944 - trainers.trainer - INFO - ---Epoch.89 Val Negative Log-Loss per event: 2.617552; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:46:26,389 - trainers.trainer - INFO - ---Epoch.89 Test Negative Log-Loss per event: 2.555446; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_Dev: 0.000000
+2023-11-26 20:47:28,512 - trainers.trainer - INFO - ---Epoch.90 Train Negative Overall Log-Loss per event: 2.869045. 
+2023-11-26 20:47:28,514 - trainers.trainer - INFO - ---Epoch.90 Val Negative Log-Loss per event: 2.619014; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:48:30,308 - trainers.trainer - INFO - ---Epoch.91 Train Negative Overall Log-Loss per event: 2.868217. 
+2023-11-26 20:48:30,310 - trainers.trainer - INFO - ---Epoch.91 Val Negative Log-Loss per event: 2.614347; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:49:31,388 - trainers.trainer - INFO - ---Epoch.92 Train Negative Overall Log-Loss per event: 2.868290. 
+2023-11-26 20:49:31,391 - trainers.trainer - INFO - ---Epoch.92 Val Negative Log-Loss per event: 2.611224; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:50:32,853 - trainers.trainer - INFO - ---Epoch.93 Train Negative Overall Log-Loss per event: 2.867201. 
+2023-11-26 20:50:32,855 - trainers.trainer - INFO - ---Epoch.93 Val Negative Log-Loss per event: 2.617019; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:51:34,610 - trainers.trainer - INFO - ---Epoch.94 Train Negative Overall Log-Loss per event: 2.869189. 
+2023-11-26 20:51:34,611 - trainers.trainer - INFO - ---Epoch.94 Val Negative Log-Loss per event: 2.614721; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:52:35,266 - trainers.trainer - INFO - ---Epoch.95 Train Negative Overall Log-Loss per event: 2.868521. 
+2023-11-26 20:52:35,268 - trainers.trainer - INFO - ---Epoch.95 Val Negative Log-Loss per event: 2.612487; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:53:37,162 - trainers.trainer - INFO - ---Epoch.96 Train Negative Overall Log-Loss per event: 2.867982. 
+2023-11-26 20:53:37,164 - trainers.trainer - INFO - ---Epoch.96 Val Negative Log-Loss per event: 2.613246; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:54:38,837 - trainers.trainer - INFO - ---Epoch.97 Train Negative Overall Log-Loss per event: 2.867498. 
+2023-11-26 20:54:38,839 - trainers.trainer - INFO - ---Epoch.97 Val Negative Log-Loss per event: 2.615843; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:55:40,741 - trainers.trainer - INFO - ---Epoch.98 Train Negative Overall Log-Loss per event: 2.867873. 
+2023-11-26 20:55:40,743 - trainers.trainer - INFO - ---Epoch.98 Val Negative Log-Loss per event: 2.616083; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:56:46,687 - trainers.trainer - INFO - ---Epoch.99 Train Negative Overall Log-Loss per event: 2.866972. 
+2023-11-26 20:56:46,689 - trainers.trainer - INFO - ---Epoch.99 Val Negative Log-Loss per event: 2.611239; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-26 20:56:48,341 - trainers.trainer - INFO - ---Epoch.99 Test Negative Log-Loss per event: 2.556473; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_Dev: 0.000000
+2023-11-26 21:09:42,748 - trainers.trainer - INFO - Loaded model at 69
+2023-11-26 21:09:59,417 - trainers.trainer - INFO - ---Epoch.69 Test Negative Log-Loss per event: 2.557303; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 1.404239; MAPE: 6.145713; CRPS:0.393324; Acc_Top1: 0.526621; Acc_Top3: 0.836086; QQ_Dev: 1.612141
+2023-11-26 21:09:59,421 - trainers.trainer - INFO - Mean Negative_likelihood on test: 2.557302951812744, Variance: 0.0
+2023-11-27 06:41:19,073 - trainers.trainer - INFO - the number of trainable parameters: 22132
+2023-11-27 06:41:19,074 - trainers.trainer - INFO - Start training the model ...
+2023-11-27 06:41:38,470 - trainers.trainer - INFO - Log directory: logs_results_vae_rnn\Trial
+2023-11-27 06:41:42,345 - trainers.trainer - INFO - the number of trainable parameters: 17872
+2023-11-27 06:41:42,347 - trainers.trainer - INFO - Start training the model ...
+2023-11-27 06:42:17,349 - trainers.trainer - INFO - ---Epoch.0 Train Negative Overall Log-Loss per event: 4.140010. 
+2023-11-27 06:42:17,351 - trainers.trainer - INFO - ---Epoch.0 Val Negative Log-Loss per event: 2.973017; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 06:42:17,356 - trainers.trainer - INFO - Saved model at 0
+2023-11-27 06:42:17,359 - trainers.trainer - INFO - Negative Log-Loss decrease from inf to 2.97302, saving to logs_results_vae_rnn\Trial\saved_model\epo0.tar
+2023-11-27 06:42:51,953 - trainers.trainer - INFO - ---Epoch.1 Train Negative Overall Log-Loss per event: 2.934527. 
+2023-11-27 06:42:51,956 - trainers.trainer - INFO - ---Epoch.1 Val Negative Log-Loss per event: 2.614839; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 06:42:51,961 - trainers.trainer - INFO - Saved model at 1
+2023-11-27 06:42:51,964 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.97302 to 2.61484, saving to logs_results_vae_rnn\Trial\saved_model\epo1.tar
+2023-11-27 06:43:29,558 - trainers.trainer - INFO - ---Epoch.2 Train Negative Overall Log-Loss per event: 2.830176. 
+2023-11-27 06:43:29,561 - trainers.trainer - INFO - ---Epoch.2 Val Negative Log-Loss per event: 2.579650; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 06:43:29,567 - trainers.trainer - INFO - Saved model at 2
+2023-11-27 06:43:29,570 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.61484 to 2.57965, saving to logs_results_vae_rnn\Trial\saved_model\epo2.tar
+2023-11-27 06:44:06,128 - trainers.trainer - INFO - ---Epoch.3 Train Negative Overall Log-Loss per event: 2.807808. 
+2023-11-27 06:44:06,130 - trainers.trainer - INFO - ---Epoch.3 Val Negative Log-Loss per event: 2.559192; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 06:44:06,137 - trainers.trainer - INFO - Saved model at 3
+2023-11-27 06:44:06,140 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.57965 to 2.55919, saving to logs_results_vae_rnn\Trial\saved_model\epo3.tar
+2023-11-27 06:44:42,489 - trainers.trainer - INFO - ---Epoch.4 Train Negative Overall Log-Loss per event: 2.789091. 
+2023-11-27 06:44:42,491 - trainers.trainer - INFO - ---Epoch.4 Val Negative Log-Loss per event: 2.552012; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 06:44:42,498 - trainers.trainer - INFO - Saved model at 4
+2023-11-27 06:44:42,500 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.55919 to 2.55201, saving to logs_results_vae_rnn\Trial\saved_model\epo4.tar
+2023-11-27 06:45:17,771 - trainers.trainer - INFO - ---Epoch.5 Train Negative Overall Log-Loss per event: 2.771476. 
+2023-11-27 06:45:17,774 - trainers.trainer - INFO - ---Epoch.5 Val Negative Log-Loss per event: 2.536624; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 06:45:17,780 - trainers.trainer - INFO - Saved model at 5
+2023-11-27 06:45:17,783 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.55201 to 2.53662, saving to logs_results_vae_rnn\Trial\saved_model\epo5.tar
+2023-11-27 06:45:53,208 - trainers.trainer - INFO - ---Epoch.6 Train Negative Overall Log-Loss per event: 2.759880. 
+2023-11-27 06:45:53,211 - trainers.trainer - INFO - ---Epoch.6 Val Negative Log-Loss per event: 2.521150; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 06:45:53,219 - trainers.trainer - INFO - Saved model at 6
+2023-11-27 06:45:53,221 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.53662 to 2.52115, saving to logs_results_vae_rnn\Trial\saved_model\epo6.tar
+2023-11-27 06:46:28,323 - trainers.trainer - INFO - ---Epoch.7 Train Negative Overall Log-Loss per event: 2.750127. 
+2023-11-27 06:46:28,326 - trainers.trainer - INFO - ---Epoch.7 Val Negative Log-Loss per event: 2.512990; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 06:46:28,332 - trainers.trainer - INFO - Saved model at 7
+2023-11-27 06:46:28,334 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.52115 to 2.51299, saving to logs_results_vae_rnn\Trial\saved_model\epo7.tar
+2023-11-27 06:47:03,717 - trainers.trainer - INFO - ---Epoch.8 Train Negative Overall Log-Loss per event: 2.743726. 
+2023-11-27 06:47:03,719 - trainers.trainer - INFO - ---Epoch.8 Val Negative Log-Loss per event: 2.505680; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 06:47:03,725 - trainers.trainer - INFO - Saved model at 8
+2023-11-27 06:47:03,727 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.51299 to 2.50568, saving to logs_results_vae_rnn\Trial\saved_model\epo8.tar
+2023-11-27 06:47:38,925 - trainers.trainer - INFO - ---Epoch.9 Train Negative Overall Log-Loss per event: 2.742078. 
+2023-11-27 06:47:38,928 - trainers.trainer - INFO - ---Epoch.9 Val Negative Log-Loss per event: 2.505769; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 06:47:39,866 - trainers.trainer - INFO - ---Epoch.9 Test Negative Log-Loss per event: 2.455339; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_Dev: 0.000000
+2023-11-27 06:48:15,679 - trainers.trainer - INFO - ---Epoch.10 Train Negative Overall Log-Loss per event: 2.739591. 
+2023-11-27 06:48:15,682 - trainers.trainer - INFO - ---Epoch.10 Val Negative Log-Loss per event: 2.498813; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 06:48:15,689 - trainers.trainer - INFO - Saved model at 10
+2023-11-27 06:48:15,691 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.50568 to 2.49881, saving to logs_results_vae_rnn\Trial\saved_model\epo10.tar
+2023-11-27 06:48:51,386 - trainers.trainer - INFO - ---Epoch.11 Train Negative Overall Log-Loss per event: 2.733716. 
+2023-11-27 06:48:51,388 - trainers.trainer - INFO - ---Epoch.11 Val Negative Log-Loss per event: 2.499691; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 06:49:27,186 - trainers.trainer - INFO - ---Epoch.12 Train Negative Overall Log-Loss per event: 2.732131. 
+2023-11-27 06:49:27,189 - trainers.trainer - INFO - ---Epoch.12 Val Negative Log-Loss per event: 2.505904; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 06:50:01,864 - trainers.trainer - INFO - ---Epoch.13 Train Negative Overall Log-Loss per event: 2.729127. 
+2023-11-27 06:50:01,868 - trainers.trainer - INFO - ---Epoch.13 Val Negative Log-Loss per event: 2.495158; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 06:50:01,874 - trainers.trainer - INFO - Saved model at 13
+2023-11-27 06:50:01,876 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.49881 to 2.49516, saving to logs_results_vae_rnn\Trial\saved_model\epo13.tar
+2023-11-27 06:50:37,851 - trainers.trainer - INFO - ---Epoch.14 Train Negative Overall Log-Loss per event: 2.725206. 
+2023-11-27 06:50:37,853 - trainers.trainer - INFO - ---Epoch.14 Val Negative Log-Loss per event: 2.488347; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 06:50:37,861 - trainers.trainer - INFO - Saved model at 14
+2023-11-27 06:50:37,863 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.49516 to 2.48835, saving to logs_results_vae_rnn\Trial\saved_model\epo14.tar
+2023-11-27 06:51:13,292 - trainers.trainer - INFO - ---Epoch.15 Train Negative Overall Log-Loss per event: 2.721603. 
+2023-11-27 06:51:13,296 - trainers.trainer - INFO - ---Epoch.15 Val Negative Log-Loss per event: 2.491684; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 06:51:48,352 - trainers.trainer - INFO - ---Epoch.16 Train Negative Overall Log-Loss per event: 2.720581. 
+2023-11-27 06:51:48,355 - trainers.trainer - INFO - ---Epoch.16 Val Negative Log-Loss per event: 2.481737; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 06:51:48,360 - trainers.trainer - INFO - Saved model at 16
+2023-11-27 06:51:48,362 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.48835 to 2.48174, saving to logs_results_vae_rnn\Trial\saved_model\epo16.tar
+2023-11-27 06:52:23,983 - trainers.trainer - INFO - ---Epoch.17 Train Negative Overall Log-Loss per event: 2.717223. 
+2023-11-27 06:52:23,985 - trainers.trainer - INFO - ---Epoch.17 Val Negative Log-Loss per event: 2.485343; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 06:52:58,630 - trainers.trainer - INFO - ---Epoch.18 Train Negative Overall Log-Loss per event: 2.717376. 
+2023-11-27 06:52:58,632 - trainers.trainer - INFO - ---Epoch.18 Val Negative Log-Loss per event: 2.485439; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 06:53:33,664 - trainers.trainer - INFO - ---Epoch.19 Train Negative Overall Log-Loss per event: 2.717062. 
+2023-11-27 06:53:33,667 - trainers.trainer - INFO - ---Epoch.19 Val Negative Log-Loss per event: 2.495404; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 06:53:34,821 - trainers.trainer - INFO - ---Epoch.19 Test Negative Log-Loss per event: 2.435254; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_Dev: 0.000000
+2023-11-27 06:54:11,345 - trainers.trainer - INFO - ---Epoch.20 Train Negative Overall Log-Loss per event: 2.709647. 
+2023-11-27 06:54:11,347 - trainers.trainer - INFO - ---Epoch.20 Val Negative Log-Loss per event: 2.480337; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 06:54:11,355 - trainers.trainer - INFO - Saved model at 20
+2023-11-27 06:54:11,358 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.48174 to 2.48034, saving to logs_results_vae_rnn\Trial\saved_model\epo20.tar
+2023-11-27 06:54:47,321 - trainers.trainer - INFO - ---Epoch.21 Train Negative Overall Log-Loss per event: 2.708764. 
+2023-11-27 06:54:47,324 - trainers.trainer - INFO - ---Epoch.21 Val Negative Log-Loss per event: 2.483966; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 06:55:23,464 - trainers.trainer - INFO - ---Epoch.22 Train Negative Overall Log-Loss per event: 2.706330. 
+2023-11-27 06:55:23,466 - trainers.trainer - INFO - ---Epoch.22 Val Negative Log-Loss per event: 2.475680; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 06:55:23,475 - trainers.trainer - INFO - Saved model at 22
+2023-11-27 06:55:23,479 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.48034 to 2.47568, saving to logs_results_vae_rnn\Trial\saved_model\epo22.tar
+2023-11-27 06:55:59,041 - trainers.trainer - INFO - ---Epoch.23 Train Negative Overall Log-Loss per event: 2.706954. 
+2023-11-27 06:55:59,044 - trainers.trainer - INFO - ---Epoch.23 Val Negative Log-Loss per event: 2.478880; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 06:56:34,259 - trainers.trainer - INFO - ---Epoch.24 Train Negative Overall Log-Loss per event: 2.705253. 
+2023-11-27 06:56:34,262 - trainers.trainer - INFO - ---Epoch.24 Val Negative Log-Loss per event: 2.474555; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 06:56:34,268 - trainers.trainer - INFO - Saved model at 24
+2023-11-27 06:56:34,269 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.47568 to 2.47455, saving to logs_results_vae_rnn\Trial\saved_model\epo24.tar
+2023-11-27 06:57:09,502 - trainers.trainer - INFO - ---Epoch.25 Train Negative Overall Log-Loss per event: 2.704246. 
+2023-11-27 06:57:09,505 - trainers.trainer - INFO - ---Epoch.25 Val Negative Log-Loss per event: 2.476267; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 06:57:44,741 - trainers.trainer - INFO - ---Epoch.26 Train Negative Overall Log-Loss per event: 2.703904. 
+2023-11-27 06:57:44,744 - trainers.trainer - INFO - ---Epoch.26 Val Negative Log-Loss per event: 2.470904; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 06:57:44,750 - trainers.trainer - INFO - Saved model at 26
+2023-11-27 06:57:44,752 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.47455 to 2.47090, saving to logs_results_vae_rnn\Trial\saved_model\epo26.tar
+2023-11-27 06:58:19,881 - trainers.trainer - INFO - ---Epoch.27 Train Negative Overall Log-Loss per event: 2.704484. 
+2023-11-27 06:58:19,884 - trainers.trainer - INFO - ---Epoch.27 Val Negative Log-Loss per event: 2.471637; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 06:58:55,307 - trainers.trainer - INFO - ---Epoch.28 Train Negative Overall Log-Loss per event: 2.701356. 
+2023-11-27 06:58:55,309 - trainers.trainer - INFO - ---Epoch.28 Val Negative Log-Loss per event: 2.473069; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 06:59:30,807 - trainers.trainer - INFO - ---Epoch.29 Train Negative Overall Log-Loss per event: 2.702341. 
+2023-11-27 06:59:30,809 - trainers.trainer - INFO - ---Epoch.29 Val Negative Log-Loss per event: 2.470198; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 06:59:31,746 - trainers.trainer - INFO - ---Epoch.29 Test Negative Log-Loss per event: 2.422882; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_Dev: 0.000000
+2023-11-27 06:59:31,752 - trainers.trainer - INFO - Saved model at 29
+2023-11-27 06:59:31,754 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.47090 to 2.47020, saving to logs_results_vae_rnn\Trial\saved_model\epo29.tar
+2023-11-27 07:00:07,079 - trainers.trainer - INFO - ---Epoch.30 Train Negative Overall Log-Loss per event: 2.701526. 
+2023-11-27 07:00:07,082 - trainers.trainer - INFO - ---Epoch.30 Val Negative Log-Loss per event: 2.471769; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:00:42,121 - trainers.trainer - INFO - ---Epoch.31 Train Negative Overall Log-Loss per event: 2.699715. 
+2023-11-27 07:00:42,124 - trainers.trainer - INFO - ---Epoch.31 Val Negative Log-Loss per event: 2.474904; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:01:17,603 - trainers.trainer - INFO - ---Epoch.32 Train Negative Overall Log-Loss per event: 2.700434. 
+2023-11-27 07:01:17,606 - trainers.trainer - INFO - ---Epoch.32 Val Negative Log-Loss per event: 2.468642; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:01:17,613 - trainers.trainer - INFO - Saved model at 32
+2023-11-27 07:01:17,615 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.47020 to 2.46864, saving to logs_results_vae_rnn\Trial\saved_model\epo32.tar
+2023-11-27 07:01:53,168 - trainers.trainer - INFO - ---Epoch.33 Train Negative Overall Log-Loss per event: 2.698900. 
+2023-11-27 07:01:53,170 - trainers.trainer - INFO - ---Epoch.33 Val Negative Log-Loss per event: 2.471173; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:02:28,526 - trainers.trainer - INFO - ---Epoch.34 Train Negative Overall Log-Loss per event: 2.697310. 
+2023-11-27 07:02:28,528 - trainers.trainer - INFO - ---Epoch.34 Val Negative Log-Loss per event: 2.479681; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:03:03,656 - trainers.trainer - INFO - ---Epoch.35 Train Negative Overall Log-Loss per event: 2.698288. 
+2023-11-27 07:03:03,659 - trainers.trainer - INFO - ---Epoch.35 Val Negative Log-Loss per event: 2.473236; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:03:38,965 - trainers.trainer - INFO - ---Epoch.36 Train Negative Overall Log-Loss per event: 2.697083. 
+2023-11-27 07:03:38,968 - trainers.trainer - INFO - ---Epoch.36 Val Negative Log-Loss per event: 2.462506; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:03:38,973 - trainers.trainer - INFO - Saved model at 36
+2023-11-27 07:03:38,975 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.46864 to 2.46251, saving to logs_results_vae_rnn\Trial\saved_model\epo36.tar
+2023-11-27 07:04:13,936 - trainers.trainer - INFO - ---Epoch.37 Train Negative Overall Log-Loss per event: 2.696269. 
+2023-11-27 07:04:13,939 - trainers.trainer - INFO - ---Epoch.37 Val Negative Log-Loss per event: 2.468506; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:04:49,321 - trainers.trainer - INFO - ---Epoch.38 Train Negative Overall Log-Loss per event: 2.698132. 
+2023-11-27 07:04:49,324 - trainers.trainer - INFO - ---Epoch.38 Val Negative Log-Loss per event: 2.466564; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:05:24,635 - trainers.trainer - INFO - ---Epoch.39 Train Negative Overall Log-Loss per event: 2.695951. 
+2023-11-27 07:05:24,637 - trainers.trainer - INFO - ---Epoch.39 Val Negative Log-Loss per event: 2.461493; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:05:25,576 - trainers.trainer - INFO - ---Epoch.39 Test Negative Log-Loss per event: 2.414635; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_Dev: 0.000000
+2023-11-27 07:05:25,583 - trainers.trainer - INFO - Saved model at 39
+2023-11-27 07:05:25,585 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.46251 to 2.46149, saving to logs_results_vae_rnn\Trial\saved_model\epo39.tar
+2023-11-27 07:06:00,739 - trainers.trainer - INFO - ---Epoch.40 Train Negative Overall Log-Loss per event: 2.693198. 
+2023-11-27 07:06:00,742 - trainers.trainer - INFO - ---Epoch.40 Val Negative Log-Loss per event: 2.459816; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:06:00,749 - trainers.trainer - INFO - Saved model at 40
+2023-11-27 07:06:00,751 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.46149 to 2.45982, saving to logs_results_vae_rnn\Trial\saved_model\epo40.tar
+2023-11-27 07:06:35,836 - trainers.trainer - INFO - ---Epoch.41 Train Negative Overall Log-Loss per event: 2.691710. 
+2023-11-27 07:06:35,839 - trainers.trainer - INFO - ---Epoch.41 Val Negative Log-Loss per event: 2.463433; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:07:11,381 - trainers.trainer - INFO - ---Epoch.42 Train Negative Overall Log-Loss per event: 2.691928. 
+2023-11-27 07:07:11,385 - trainers.trainer - INFO - ---Epoch.42 Val Negative Log-Loss per event: 2.461476; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:07:46,977 - trainers.trainer - INFO - ---Epoch.43 Train Negative Overall Log-Loss per event: 2.690667. 
+2023-11-27 07:07:46,980 - trainers.trainer - INFO - ---Epoch.43 Val Negative Log-Loss per event: 2.461561; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:08:22,431 - trainers.trainer - INFO - ---Epoch.44 Train Negative Overall Log-Loss per event: 2.692751. 
+2023-11-27 07:08:22,434 - trainers.trainer - INFO - ---Epoch.44 Val Negative Log-Loss per event: 2.460716; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:08:57,680 - trainers.trainer - INFO - ---Epoch.45 Train Negative Overall Log-Loss per event: 2.692376. 
+2023-11-27 07:08:57,683 - trainers.trainer - INFO - ---Epoch.45 Val Negative Log-Loss per event: 2.464880; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:09:33,045 - trainers.trainer - INFO - ---Epoch.46 Train Negative Overall Log-Loss per event: 2.691939. 
+2023-11-27 07:09:33,047 - trainers.trainer - INFO - ---Epoch.46 Val Negative Log-Loss per event: 2.461368; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:10:08,366 - trainers.trainer - INFO - ---Epoch.47 Train Negative Overall Log-Loss per event: 2.692581. 
+2023-11-27 07:10:08,368 - trainers.trainer - INFO - ---Epoch.47 Val Negative Log-Loss per event: 2.463054; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:10:43,909 - trainers.trainer - INFO - ---Epoch.48 Train Negative Overall Log-Loss per event: 2.690451. 
+2023-11-27 07:10:43,912 - trainers.trainer - INFO - ---Epoch.48 Val Negative Log-Loss per event: 2.454479; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:10:43,917 - trainers.trainer - INFO - Saved model at 48
+2023-11-27 07:10:43,919 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.45982 to 2.45448, saving to logs_results_vae_rnn\Trial\saved_model\epo48.tar
+2023-11-27 07:11:19,295 - trainers.trainer - INFO - ---Epoch.49 Train Negative Overall Log-Loss per event: 2.687339. 
+2023-11-27 07:11:19,298 - trainers.trainer - INFO - ---Epoch.49 Val Negative Log-Loss per event: 2.462228; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:11:20,248 - trainers.trainer - INFO - ---Epoch.49 Test Negative Log-Loss per event: 2.413937; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_Dev: 0.000000
+2023-11-27 07:11:55,284 - trainers.trainer - INFO - ---Epoch.50 Train Negative Overall Log-Loss per event: 2.690290. 
+2023-11-27 07:11:55,286 - trainers.trainer - INFO - ---Epoch.50 Val Negative Log-Loss per event: 2.462218; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:12:30,619 - trainers.trainer - INFO - ---Epoch.51 Train Negative Overall Log-Loss per event: 2.690071. 
+2023-11-27 07:12:30,622 - trainers.trainer - INFO - ---Epoch.51 Val Negative Log-Loss per event: 2.457843; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:13:06,097 - trainers.trainer - INFO - ---Epoch.52 Train Negative Overall Log-Loss per event: 2.690011. 
+2023-11-27 07:13:06,099 - trainers.trainer - INFO - ---Epoch.52 Val Negative Log-Loss per event: 2.462104; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:13:41,763 - trainers.trainer - INFO - ---Epoch.53 Train Negative Overall Log-Loss per event: 2.689263. 
+2023-11-27 07:13:41,766 - trainers.trainer - INFO - ---Epoch.53 Val Negative Log-Loss per event: 2.453954; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:13:41,772 - trainers.trainer - INFO - Saved model at 53
+2023-11-27 07:13:41,775 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.45448 to 2.45395, saving to logs_results_vae_rnn\Trial\saved_model\epo53.tar
+2023-11-27 07:14:17,315 - trainers.trainer - INFO - ---Epoch.54 Train Negative Overall Log-Loss per event: 2.689934. 
+2023-11-27 07:14:17,317 - trainers.trainer - INFO - ---Epoch.54 Val Negative Log-Loss per event: 2.454342; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:14:52,911 - trainers.trainer - INFO - ---Epoch.55 Train Negative Overall Log-Loss per event: 2.690236. 
+2023-11-27 07:14:52,914 - trainers.trainer - INFO - ---Epoch.55 Val Negative Log-Loss per event: 2.456621; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:15:28,188 - trainers.trainer - INFO - ---Epoch.56 Train Negative Overall Log-Loss per event: 2.689690. 
+2023-11-27 07:15:28,191 - trainers.trainer - INFO - ---Epoch.56 Val Negative Log-Loss per event: 2.455766; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:16:03,553 - trainers.trainer - INFO - ---Epoch.57 Train Negative Overall Log-Loss per event: 2.688778. 
+2023-11-27 07:16:03,556 - trainers.trainer - INFO - ---Epoch.57 Val Negative Log-Loss per event: 2.462313; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:16:38,772 - trainers.trainer - INFO - ---Epoch.58 Train Negative Overall Log-Loss per event: 2.689201. 
+2023-11-27 07:16:38,774 - trainers.trainer - INFO - ---Epoch.58 Val Negative Log-Loss per event: 2.458376; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:17:15,012 - trainers.trainer - INFO - ---Epoch.59 Train Negative Overall Log-Loss per event: 2.687308. 
+2023-11-27 07:17:15,015 - trainers.trainer - INFO - ---Epoch.59 Val Negative Log-Loss per event: 2.453520; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:17:15,976 - trainers.trainer - INFO - ---Epoch.59 Test Negative Log-Loss per event: 2.419859; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_Dev: 0.000000
+2023-11-27 07:17:15,983 - trainers.trainer - INFO - Saved model at 59
+2023-11-27 07:17:15,985 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.45395 to 2.45352, saving to logs_results_vae_rnn\Trial\saved_model\epo59.tar
+2023-11-27 07:17:51,665 - trainers.trainer - INFO - ---Epoch.60 Train Negative Overall Log-Loss per event: 2.687106. 
+2023-11-27 07:17:51,668 - trainers.trainer - INFO - ---Epoch.60 Val Negative Log-Loss per event: 2.462329; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:18:27,430 - trainers.trainer - INFO - ---Epoch.61 Train Negative Overall Log-Loss per event: 2.686380. 
+2023-11-27 07:18:27,433 - trainers.trainer - INFO - ---Epoch.61 Val Negative Log-Loss per event: 2.459055; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:19:03,334 - trainers.trainer - INFO - ---Epoch.62 Train Negative Overall Log-Loss per event: 2.687271. 
+2023-11-27 07:19:03,338 - trainers.trainer - INFO - ---Epoch.62 Val Negative Log-Loss per event: 2.457231; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:19:38,487 - trainers.trainer - INFO - ---Epoch.63 Train Negative Overall Log-Loss per event: 2.686460. 
+2023-11-27 07:19:38,490 - trainers.trainer - INFO - ---Epoch.63 Val Negative Log-Loss per event: 2.457609; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:20:14,852 - trainers.trainer - INFO - ---Epoch.64 Train Negative Overall Log-Loss per event: 2.687103. 
+2023-11-27 07:20:14,855 - trainers.trainer - INFO - ---Epoch.64 Val Negative Log-Loss per event: 2.458161; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:20:49,522 - trainers.trainer - INFO - ---Epoch.65 Train Negative Overall Log-Loss per event: 2.685093. 
+2023-11-27 07:20:49,524 - trainers.trainer - INFO - ---Epoch.65 Val Negative Log-Loss per event: 2.452833; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:20:49,530 - trainers.trainer - INFO - Saved model at 65
+2023-11-27 07:20:49,531 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.45352 to 2.45283, saving to logs_results_vae_rnn\Trial\saved_model\epo65.tar
+2023-11-27 07:21:24,095 - trainers.trainer - INFO - ---Epoch.66 Train Negative Overall Log-Loss per event: 2.684015. 
+2023-11-27 07:21:24,097 - trainers.trainer - INFO - ---Epoch.66 Val Negative Log-Loss per event: 2.458380; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:21:59,555 - trainers.trainer - INFO - ---Epoch.67 Train Negative Overall Log-Loss per event: 2.682783. 
+2023-11-27 07:21:59,558 - trainers.trainer - INFO - ---Epoch.67 Val Negative Log-Loss per event: 2.453348; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:22:36,024 - trainers.trainer - INFO - ---Epoch.68 Train Negative Overall Log-Loss per event: 2.685378. 
+2023-11-27 07:22:36,027 - trainers.trainer - INFO - ---Epoch.68 Val Negative Log-Loss per event: 2.461014; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:23:11,652 - trainers.trainer - INFO - ---Epoch.69 Train Negative Overall Log-Loss per event: 2.684653. 
+2023-11-27 07:23:11,655 - trainers.trainer - INFO - ---Epoch.69 Val Negative Log-Loss per event: 2.457508; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:23:12,622 - trainers.trainer - INFO - ---Epoch.69 Test Negative Log-Loss per event: 2.412480; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_Dev: 0.000000
+2023-11-27 07:23:48,109 - trainers.trainer - INFO - ---Epoch.70 Train Negative Overall Log-Loss per event: 2.683403. 
+2023-11-27 07:23:48,111 - trainers.trainer - INFO - ---Epoch.70 Val Negative Log-Loss per event: 2.453599; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:24:23,536 - trainers.trainer - INFO - ---Epoch.71 Train Negative Overall Log-Loss per event: 2.682684. 
+2023-11-27 07:24:23,539 - trainers.trainer - INFO - ---Epoch.71 Val Negative Log-Loss per event: 2.459322; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:24:59,003 - trainers.trainer - INFO - ---Epoch.72 Train Negative Overall Log-Loss per event: 2.685466. 
+2023-11-27 07:24:59,005 - trainers.trainer - INFO - ---Epoch.72 Val Negative Log-Loss per event: 2.456108; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:25:35,309 - trainers.trainer - INFO - ---Epoch.73 Train Negative Overall Log-Loss per event: 2.684829. 
+2023-11-27 07:25:35,312 - trainers.trainer - INFO - ---Epoch.73 Val Negative Log-Loss per event: 2.454840; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:26:12,381 - trainers.trainer - INFO - ---Epoch.74 Train Negative Overall Log-Loss per event: 2.684983. 
+2023-11-27 07:26:12,384 - trainers.trainer - INFO - ---Epoch.74 Val Negative Log-Loss per event: 2.461409; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:26:48,490 - trainers.trainer - INFO - ---Epoch.75 Train Negative Overall Log-Loss per event: 2.684337. 
+2023-11-27 07:26:48,493 - trainers.trainer - INFO - ---Epoch.75 Val Negative Log-Loss per event: 2.452043; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:26:48,499 - trainers.trainer - INFO - Saved model at 75
+2023-11-27 07:26:48,501 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.45283 to 2.45204, saving to logs_results_vae_rnn\Trial\saved_model\epo75.tar
+2023-11-27 07:27:24,319 - trainers.trainer - INFO - ---Epoch.76 Train Negative Overall Log-Loss per event: 2.683366. 
+2023-11-27 07:27:24,322 - trainers.trainer - INFO - ---Epoch.76 Val Negative Log-Loss per event: 2.461516; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:27:59,964 - trainers.trainer - INFO - ---Epoch.77 Train Negative Overall Log-Loss per event: 2.685563. 
+2023-11-27 07:27:59,966 - trainers.trainer - INFO - ---Epoch.77 Val Negative Log-Loss per event: 2.453066; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:28:35,649 - trainers.trainer - INFO - ---Epoch.78 Train Negative Overall Log-Loss per event: 2.682267. 
+2023-11-27 07:28:35,651 - trainers.trainer - INFO - ---Epoch.78 Val Negative Log-Loss per event: 2.450927; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:28:35,657 - trainers.trainer - INFO - Saved model at 78
+2023-11-27 07:28:35,659 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.45204 to 2.45093, saving to logs_results_vae_rnn\Trial\saved_model\epo78.tar
+2023-11-27 07:29:10,658 - trainers.trainer - INFO - ---Epoch.79 Train Negative Overall Log-Loss per event: 2.684107. 
+2023-11-27 07:29:10,662 - trainers.trainer - INFO - ---Epoch.79 Val Negative Log-Loss per event: 2.456798; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:29:11,573 - trainers.trainer - INFO - ---Epoch.79 Test Negative Log-Loss per event: 2.406133; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_Dev: 0.000000
+2023-11-27 07:29:46,707 - trainers.trainer - INFO - ---Epoch.80 Train Negative Overall Log-Loss per event: 2.683984. 
+2023-11-27 07:29:46,709 - trainers.trainer - INFO - ---Epoch.80 Val Negative Log-Loss per event: 2.457743; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:30:21,896 - trainers.trainer - INFO - ---Epoch.81 Train Negative Overall Log-Loss per event: 2.681860. 
+2023-11-27 07:30:21,899 - trainers.trainer - INFO - ---Epoch.81 Val Negative Log-Loss per event: 2.457633; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:30:57,071 - trainers.trainer - INFO - ---Epoch.82 Train Negative Overall Log-Loss per event: 2.681434. 
+2023-11-27 07:30:57,073 - trainers.trainer - INFO - ---Epoch.82 Val Negative Log-Loss per event: 2.456599; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:31:32,104 - trainers.trainer - INFO - ---Epoch.83 Train Negative Overall Log-Loss per event: 2.681369. 
+2023-11-27 07:31:32,106 - trainers.trainer - INFO - ---Epoch.83 Val Negative Log-Loss per event: 2.454631; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:32:07,591 - trainers.trainer - INFO - ---Epoch.84 Train Negative Overall Log-Loss per event: 2.682894. 
+2023-11-27 07:32:07,593 - trainers.trainer - INFO - ---Epoch.84 Val Negative Log-Loss per event: 2.452075; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:32:42,733 - trainers.trainer - INFO - ---Epoch.85 Train Negative Overall Log-Loss per event: 2.681505. 
+2023-11-27 07:32:42,735 - trainers.trainer - INFO - ---Epoch.85 Val Negative Log-Loss per event: 2.457005; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:33:17,932 - trainers.trainer - INFO - ---Epoch.86 Train Negative Overall Log-Loss per event: 2.681994. 
+2023-11-27 07:33:17,935 - trainers.trainer - INFO - ---Epoch.86 Val Negative Log-Loss per event: 2.455354; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:33:53,158 - trainers.trainer - INFO - ---Epoch.87 Train Negative Overall Log-Loss per event: 2.681622. 
+2023-11-27 07:33:53,160 - trainers.trainer - INFO - ---Epoch.87 Val Negative Log-Loss per event: 2.452675; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:34:28,331 - trainers.trainer - INFO - ---Epoch.88 Train Negative Overall Log-Loss per event: 2.680814. 
+2023-11-27 07:34:28,333 - trainers.trainer - INFO - ---Epoch.88 Val Negative Log-Loss per event: 2.453553; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:35:03,065 - trainers.trainer - INFO - ---Epoch.89 Train Negative Overall Log-Loss per event: 2.682695. 
+2023-11-27 07:35:03,068 - trainers.trainer - INFO - ---Epoch.89 Val Negative Log-Loss per event: 2.452840; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:35:04,019 - trainers.trainer - INFO - ---Epoch.89 Test Negative Log-Loss per event: 2.404557; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_Dev: 0.000000
+2023-11-27 07:35:38,945 - trainers.trainer - INFO - ---Epoch.90 Train Negative Overall Log-Loss per event: 2.681925. 
+2023-11-27 07:35:38,948 - trainers.trainer - INFO - ---Epoch.90 Val Negative Log-Loss per event: 2.456448; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:36:13,998 - trainers.trainer - INFO - ---Epoch.91 Train Negative Overall Log-Loss per event: 2.682480. 
+2023-11-27 07:36:14,000 - trainers.trainer - INFO - ---Epoch.91 Val Negative Log-Loss per event: 2.457391; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:36:48,917 - trainers.trainer - INFO - ---Epoch.92 Train Negative Overall Log-Loss per event: 2.683401. 
+2023-11-27 07:36:48,920 - trainers.trainer - INFO - ---Epoch.92 Val Negative Log-Loss per event: 2.459363; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:37:24,670 - trainers.trainer - INFO - ---Epoch.93 Train Negative Overall Log-Loss per event: 2.682776. 
+2023-11-27 07:37:24,673 - trainers.trainer - INFO - ---Epoch.93 Val Negative Log-Loss per event: 2.453102; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:37:59,836 - trainers.trainer - INFO - ---Epoch.94 Train Negative Overall Log-Loss per event: 2.681837. 
+2023-11-27 07:37:59,839 - trainers.trainer - INFO - ---Epoch.94 Val Negative Log-Loss per event: 2.457490; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:38:35,165 - trainers.trainer - INFO - ---Epoch.95 Train Negative Overall Log-Loss per event: 2.681654. 
+2023-11-27 07:38:35,169 - trainers.trainer - INFO - ---Epoch.95 Val Negative Log-Loss per event: 2.459921; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:39:10,221 - trainers.trainer - INFO - ---Epoch.96 Train Negative Overall Log-Loss per event: 2.681264. 
+2023-11-27 07:39:10,224 - trainers.trainer - INFO - ---Epoch.96 Val Negative Log-Loss per event: 2.454737; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:39:45,520 - trainers.trainer - INFO - ---Epoch.97 Train Negative Overall Log-Loss per event: 2.679548. 
+2023-11-27 07:39:45,524 - trainers.trainer - INFO - ---Epoch.97 Val Negative Log-Loss per event: 2.446191; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:39:45,530 - trainers.trainer - INFO - Saved model at 97
+2023-11-27 07:39:45,532 - trainers.trainer - INFO - Negative Log-Loss decrease from 2.45093 to 2.44619, saving to logs_results_vae_rnn\Trial\saved_model\epo97.tar
+2023-11-27 07:40:20,842 - trainers.trainer - INFO - ---Epoch.98 Train Negative Overall Log-Loss per event: 2.679993. 
+2023-11-27 07:40:20,845 - trainers.trainer - INFO - ---Epoch.98 Val Negative Log-Loss per event: 2.454044; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:40:56,070 - trainers.trainer - INFO - ---Epoch.99 Train Negative Overall Log-Loss per event: 2.680659. 
+2023-11-27 07:40:56,072 - trainers.trainer - INFO - ---Epoch.99 Val Negative Log-Loss per event: 2.457676; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_dev: 0.000000 
+2023-11-27 07:40:57,035 - trainers.trainer - INFO - ---Epoch.99 Test Negative Log-Loss per event: 2.406970; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 0.000000; MAPE: 0.000000; CRPS:0.000000; Acc_Top1: 0.000000; Acc_Top3: 0.000000; QQ_Dev: 0.000000
+2023-11-27 07:59:43,865 - trainers.trainer - INFO - Loaded model at 97
+2023-11-27 07:59:59,978 - trainers.trainer - INFO - ---Epoch.97 Test Negative Log-Loss per event: 2.403253; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 1.291110; MAPE: 6.057017; CRPS:0.374897; Acc_Top1: 0.531700; Acc_Top3: 0.861578; QQ_Dev: 1.629908
+2023-11-27 07:59:59,981 - trainers.trainer - INFO - Mean Negative_likelihood on test: 2.403252601623535, Variance: 0.0
+2023-11-27 08:01:04,050 - trainers.trainer - INFO - Loaded model at 75
+2023-11-27 08:01:20,833 - trainers.trainer - INFO - ---Epoch.75 Test Negative Log-Loss per event: 2.401726; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 1.291573; MAPE: 6.053771; CRPS:0.374796; Acc_Top1: 0.532225; Acc_Top3: 0.860907; QQ_Dev: 1.628661
+2023-11-27 08:01:20,838 - trainers.trainer - INFO - Loaded model at 78
+2023-11-27 08:01:37,115 - trainers.trainer - INFO - ---Epoch.78 Test Negative Log-Loss per event: 2.413201; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 1.292157; MAPE: 6.115654; CRPS:0.375352; Acc_Top1: 0.531859; Acc_Top3: 0.861224; QQ_Dev: 1.633804
+2023-11-27 08:01:37,120 - trainers.trainer - INFO - Loaded model at 97
+2023-11-27 08:01:53,542 - trainers.trainer - INFO - ---Epoch.97 Test Negative Log-Loss per event: 2.404860; Negative Log-Likelihood per event:0.000000; Cross-Entropy per event: 1.291110; MAPE: 6.058961; CRPS:0.375071; Acc_Top1: 0.531700; Acc_Top3: 0.861578; QQ_Dev: 1.629802
+2023-11-27 08:01:53,545 - trainers.trainer - INFO - Mean Negative_likelihood on test: 2.406595786412557, Variance: 2.34499745425233e-05
